@@ -11,6 +11,7 @@ var app = {
         app.loadAssets("animate.css","css");
         app.loadAssets("style.css","css");
         app.loadAssets("jquery-2.1.4.min.js","js");
+        app.loadAssets("angular.min.js","js");
         app.loadAssets("main.html","html");
         app.loadAssets("custom.js","js");
     },

@@ -7,7 +7,6 @@ var main = {
         window.addEventListener("hashchange", main.hashchange);
         $(".page").addClass("animated");
         location.hash = "home";
-        $(".button").click(main.buttonClicked);
     },
 
     //hash change handler
@@ -27,9 +26,17 @@ var main = {
         main.prevPage = hash;
     },
 
-    buttonClicked : function() {
-        location.hash = $(this).attr("data-link");
-    }
+    goto: function(hash){
+            location.hash = hash;
+        }
 }
+
+var app = angular.module("myApp", []);
+
+app.controller("homeController", function($scope) {
+    $scope.notification = 
+        main.goto('notification');
+
+});
 
 setTimeout(main.initialize, 1500);
