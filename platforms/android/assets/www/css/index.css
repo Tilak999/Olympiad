@@ -36,6 +36,12 @@ body,html {
 
 .spinner
 {
+    width: 150px;
+    margin: auto; 
+}
+
+#flash-screen .spinner
+{
     width: 30px;
     margin: auto;
     padding: 40px;
@@ -44,7 +50,7 @@ body,html {
 .cloud
 {
     background-image: url("../img/cloud.png");
-    position: absolute;
+    position: fixed;
     bottom:0px;
     background-position-x: 20px;
     width: 100%;

@@ -68,5 +68,3 @@ app.controller("Controller", function($scope,$http) {
     };
 
 });
-
-setTimeout(main.initialize, 1500);

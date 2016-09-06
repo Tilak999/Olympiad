@@ -10,9 +10,7 @@ var app = {
     onDeviceReady: function() {
         app.loadAssets("animate.css","css");
         app.loadAssets("style.css","css");
-        app.loadAssets("jquery-2.1.4.min.js","js");
-        app.loadAssets("custom.js","js");
-        app.loadAssets("main.html","html");
+        setTimeout(main.initialize,1500);
     },
 
     loadAssets: function(filename,filetype){
@@ -27,18 +25,7 @@ var app = {
             fileref.setAttribute("type", "text/css")
             fileref.setAttribute("href", "css/"+filename)
         }
-        else if (filetype=="html")
-        {
-            var xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function() {
-                if (xhttp.readyState == 4 && xhttp.status == 200) {
-                document.getElementsByTagName("body")[0].innerHTML+=xhttp.responseText;
-                }
-            };
-            xhttp.open("GET",filename, true);
-            xhttp.send();
-        }
-
+        
         if (typeof fileref!="undefined")
             document.getElementsByTagName("head")[0].appendChild(fileref)
     }
