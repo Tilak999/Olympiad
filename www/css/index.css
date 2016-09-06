@@ -36,6 +36,12 @@ body,html {
 
 .spinner
 {
+    width: 150px;
+    margin: auto; 
+}
+
+#flash-screen .spinner
+{
     width: 30px;
     margin: auto;
     padding: 40px;
