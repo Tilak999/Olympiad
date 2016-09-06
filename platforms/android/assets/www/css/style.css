@@ -1,0 +1,30 @@
+.menu
+{
+	width: 100%;
+	max-width: 300px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.menu .item
+{
+	border-radius: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.scaling{
+    -webkit-animation-name: scalex;
+    -webkit-animation-duration:3s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:ease-in-out;
+}
+ @-webkit-keyframes scalex{
+    from {-webkit-transform: scale(1.0);}
+    65% {-webkit-transform: scale(1.1);}
+    to {-webkit-transform: scale(1.0);}    
+}

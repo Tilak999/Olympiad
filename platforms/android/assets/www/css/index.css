@@ -1,0 +1,62 @@
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body,html {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    height: 100%;
+}
+
+.page
+{
+    width:100%;
+    min-height: 100%;
+    display: none;
+}
+
+#flash-screen
+{
+    display: block;
+}
+
+.logo
+{
+    padding: 40px;
+    max-width: 345px;
+    margin: auto;
+}
+
+.spinner
+{
+    width: 30px;
+    margin: auto;
+    padding: 40px;
+}
+
+.cloud
+{
+    background-image: url("../img/cloud.png");
+    position: absolute;
+    bottom:0px;
+    background-position-x: 20px;
+    width: 100%;
+    height: 58px;
+    -webkit-animation-name: Floatingx;
+    -webkit-animation-duration: 25s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes Floatingx{
+    from { background-position-x: 20px; }
+    50% { background-position-x: 270px; }
+    to { background-position-x: 20px;}    
+}
