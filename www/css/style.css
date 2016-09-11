@@ -83,10 +83,10 @@
 	display: none;
 }
 
-.notification-panel
+.notification-panel , .register-panel
 {
 	padding: 15px;
-    padding-top: 60px;
+    padding-top: 70px;
 }
 
 .notification 
@@ -152,5 +152,5 @@
 
 #register .header
 {
-    background:#d20000;
+    background:rgb(33,150,243);
 }

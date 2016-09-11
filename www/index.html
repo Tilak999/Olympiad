@@ -64,6 +64,23 @@
         <div class="page fadeIn" id="register">
             <div class="header">Register</div>
             <div class="register-panel">
+                
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="name">
+                    <label class="mdl-textfield__label">Full Name</label>
+                </div>
+
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" id="father">
+                    <label class="mdl-textfield__label">Father's Name</label>
+                </div>
+
+                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="mobile">
+                    <label class="mdl-textfield__label">Mobile</label>
+                    <span class="mdl-textfield__error">Input is not a mobile number!</span>
+                </div>
+
             </div>
         </div>
 
