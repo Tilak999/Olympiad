@@ -84,7 +84,7 @@
 	display: none;
 }
 
-.notification-panel , .register-panel
+.panel
 {
 	padding: 15px;
     padding-top: 70px;
@@ -125,13 +125,13 @@
 	padding-top: 5px;
 }
 
-.notification-panel .info-area .loading-div
+.info-area .loading-div
 {
     max-width: 140px;
     margin: auto;
 }
 
-.notification-panel .info-area .loading-div .spinner
+.info-area .loading-div .spinner
 {
     max-width: 40px;
     margin: auto;
@@ -139,13 +139,13 @@
     padding-bottom: 30px;
 }
 
-.notification-panel .info-area .error-div .icon
+.info-area .error-div .icon
 {
     padding: 20px;
     padding-top: 30px;
 }
 
-.notification-panel .info-area .error-div .icon i
+.info-area .error-div .icon i
 {
     font-size: 48px;
     color: gray;
@@ -186,4 +186,22 @@
     width: 100%;
     font-size: 16px;
     outline: none;
+}
+
+#test .header
+{
+    background: #e22b2b;
+}
+
+.test-type div
+{
+    border-radius: 50px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: #941a1a;
+    border: #e66f00 solid thin;
 }
