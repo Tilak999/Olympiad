@@ -71,6 +71,7 @@
 	font-size: 20px;
 	text-align: center;
     position: fixed;
+    z-index: 9999;
 }
 
 #notification .header
@@ -153,4 +154,36 @@
 #register .header
 {
     background:rgb(33,150,243);
+}
+
+.mdl-dropdown
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 16px;
+    font-family: "Helvetica","Arial",sans-serif;
+    width: 100%;
+    text-align: left;
+    color: inherit;
+}
+
+.mdl-dropdown div
+{
+    font-size: 12px;
+    color: rgb(33,150,243);
+}
+
+.mdl-dropdown select
+{
+    border: none;
+    border-radius: 0px;
+    background: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgba(0,0,0,.12);
+    overflow: hidden;
+    width: 100%;
+    font-size: 16px;
+    outline: none;
 }
