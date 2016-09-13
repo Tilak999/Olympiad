@@ -112,20 +112,108 @@ app.controller("register", function($scope) {
 app.controller("test",function($scope,$http) {
     
     $scope.loading = false;
+    //$scope.test_hidden = true;
+    
+    CurrentAns = 0;
+    ansArray = [];
+    correctAnsArray = [];
+
+    question_num = 0;
+    marks = 0;
 
     $scope.pattern = function(type) {
         $scope.type = type;
         $scope.loading = true;
         $scope.$parent.selector_hide = true;
 
-        $http.get("js/notify.json").then(function (response) {
+        $http.get("js/test.json").then(function (response) {
             $scope.test_data = response.data;
             $scope.loading = false;
+            $scope.next_question();
         },
         function(){
             console.log("error");
             $("#test .error-div").removeClass("hide");
+            $("#test .test-area").addClass("hide");
             $scope.loading = false;
         });
+    }
+
+    $scope.setAns = function(id)
+    {
+        CurrentAns = id;
+    }
+
+    $scope.next_question = function()
+    {
+        $scope.prev = true;
+        
+        if(question_num != 0)
+        {
+            $scope.prev = false;
+            ansArray[question_num-1] = CurrentAns;
+            console.log(ansArray);
+        }
+
+        $scope.question = $scope.test_data[question_num].question;
+        $scope.choices = $scope.test_data[question_num].choices;
+        correctAnsArray[question_num] = $scope.test_data[question_num].answer;
+
+        question_num = question_num + 1;
+        $scope.Qcount = question_num;
+
+        CurrentAns = 0;
+
+        if(question_num == $scope.test_data.length)
+        {
+            $scope.next = true;
+        }
+    }
+
+    $scope.prev_question = function()
+    {
+        question_num = question_num - 1;
+        $scope.prev = true;
+        
+        if(question_num != 0)
+        {
+            $scope.prev = false;
+        }
+
+        $scope.question = $scope.test_data[question_num].question;
+        $scope.choices = $scope.test_data[question_num].choices;
+
+        if(question_num == $scope.test_data.length)
+        {
+            $scope.next = true;
+        }
+    }
+
+    $scope.submit_test = function()
+    {
+        ansArray[question_num-1] = CurrentAns;
+
+        var Val = confirm("Do you want to submit ?");
+        
+        if(Val == true)
+        {
+            $scope.result();
+        }
+        else
+        {
+            return;
+        }
+    }
+
+    $scope.result = function()
+    {
+        for(var i=0; i< ansArray.length; i++)
+        {
+            if(ansArray[i] == correctAnsArray[i])
+            {
+                marks = marks + 5;
+            }
+        }
+        console.log(marks);
     }
 })

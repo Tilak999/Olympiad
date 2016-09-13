@@ -139,9 +139,34 @@
                 <div class="info-area">
                     <div class="loading-div" ng-show="loading">
                         <div class="spinner"><div class="mdl-spinner mdl-js-spinner is-active"></div></div>
-                        <div class="text">fetching notifications</div>
+                        <div class="text">fetching Test Paper</div>
                     </div>
                     <div class="error-div hide">
+                        <div class="icon"><center><i class="material-icons">error_outline</i></center></div>
+                        <div class="text"><center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center></div>
+                    </div>
+                </div>
+
+                <div class="test-area" ng-hide="!$parent.selector_hide || loading">
+                    <div class="test-div">
+                       <h5>{{Qcount}}) {{question}}</h5>
+                       <div class="choices">
+                            <div ng-repeat="choice in choices">
+                                <label><input type="radio" name="options" ng-click="setAns(choice.id)">
+                                {{choice.text}}
+                                </label>
+                            </div>
+                       </div>
+
+                       <div class="test_btn_holder">
+                            <div>
+                                <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="prev_question()" ng-disabled="prev">Previous</button>
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit_test()">Submit</button>
+                                <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="next_question()" ng-disabled="next">Next</button>
+                            </div>
+                       </div>
+                    </div>
+                    <div class="result-div hide">
                         <div class="icon"><center><i class="material-icons">error_outline</i></center></div>
                         <div class="text"><center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center></div>
                     </div>

@@ -205,3 +205,34 @@
     color: #941a1a;
     border: #e66f00 solid thin;
 }
+
+.test_btn_holder
+{
+    width: 100%;
+    position: fixed;
+    bottom: 15px;
+    left: 0px;
+}
+
+.test_btn_holder div
+{
+    width: 309px;
+    margin: auto;
+}
+
+.test_btn_holder button
+{
+    width: 100px;
+}
+
+.choices label
+{
+    font-size: 18px;
+    margin-top:15px;
+}
+
+.choices > div
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
