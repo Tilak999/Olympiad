@@ -24,7 +24,7 @@
         </div>
 
         <div class="page fadeIn" id="home">
-            <div class="logo">
+            <div class="logo" ng-click="about()">
                 <img src="img/home-logo.png" width="100%">
             </div>
             <div class="menu">
@@ -147,8 +147,8 @@
                     </div>
                 </div>
 
-                <div class="test-area" ng-hide="!$parent.selector_hide || loading">
-                    <div class="test-div">
+                <div class="test-area" ng-hide="!$parent.selector_hide || loading ">
+                    <div class="test-div" ng-hide="test_hide">
                        <h5>{{Qcount}}) {{question}}</h5>
                        <div class="choices">
                             <div ng-repeat="choice in choices">
@@ -166,9 +166,14 @@
                             </div>
                        </div>
                     </div>
-                    <div class="result-div hide">
-                        <div class="icon"><center><i class="material-icons">error_outline</i></center></div>
-                        <div class="text"><center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center></div>
+                    <div class="result-div" ng-show="test_hide">
+                        <center>
+                            <h4>Your Score</h4>
+                            <h1>{{result_score}}</h1><br>
+                            <p>You have correctly answered {{result_correct_ans}}
+                                out of {{result_qsn_attempt}} attempted questions.
+                            </p>
+                        </center>
                     </div>
                 </div>
             </div>

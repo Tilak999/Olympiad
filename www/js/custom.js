@@ -36,7 +36,13 @@ app.controller("Controller", function($scope,$http) {
     
    $scope.notify_data = [];
    $scope.notify_hide = true;
-    $scope.notification = function(){
+
+   $scope.about = function(){
+        //main.goto('result');
+        window.open('pdf/About.pdf','_system');
+   };
+   
+   $scope.notification = function(){
         main.goto('notification');
         
         $http.get("js/notify.json").then(function (response) {
@@ -51,11 +57,14 @@ app.controller("Controller", function($scope,$http) {
     };
 
     $scope.result = function(){
-        main.goto('result');
+        //main.goto('result');
+        window.open('pdf/Result.pdf','_system');
     };
 
     $scope.syllabus = function(){
-        main.goto('syllabus');
+        //main.goto('syllabus');
+        window.open('pdf/Syllabus.pdf','_system');
+        console.log("okk");
     };
 
     $scope.test = function(){
@@ -112,7 +121,7 @@ app.controller("register", function($scope) {
 app.controller("test",function($scope,$http) {
     
     $scope.loading = false;
-    //$scope.test_hidden = true;
+    $scope.test_hide = true;
     
     CurrentAns = 0;
     ansArray = [];
@@ -129,6 +138,8 @@ app.controller("test",function($scope,$http) {
         $http.get("js/test.json").then(function (response) {
             $scope.test_data = response.data;
             $scope.loading = false;
+            $scope.test_hide = false;
+            question_num = 0;
             $scope.next_question();
         },
         function(){
@@ -159,8 +170,8 @@ app.controller("test",function($scope,$http) {
         $scope.choices = $scope.test_data[question_num].choices;
         correctAnsArray[question_num] = $scope.test_data[question_num].answer;
 
+        $scope.Qcount = question_num + 1;
         question_num = question_num + 1;
-        $scope.Qcount = question_num;
 
         CurrentAns = 0;
 
@@ -172,6 +183,7 @@ app.controller("test",function($scope,$http) {
 
     $scope.prev_question = function()
     {
+        $scope.Qcount = question_num;
         question_num = question_num - 1;
         $scope.prev = true;
         
@@ -197,6 +209,7 @@ app.controller("test",function($scope,$http) {
         
         if(Val == true)
         {
+            $scope.test_hide = true;
             $scope.result();
         }
         else
@@ -205,15 +218,22 @@ app.controller("test",function($scope,$http) {
         }
     }
 
+    
     $scope.result = function()
     {
-        for(var i=0; i< ansArray.length; i++)
+        var i; var j=0;
+
+        for(i=0; i < ansArray.length; i++)
         {
             if(ansArray[i] == correctAnsArray[i])
             {
                 marks = marks + 5;
+                j = j+1;
             }
         }
-        console.log(marks);
+
+        $scope.result_score = marks;
+        $scope.result_correct_ans = j;
+        $scope.result_qsn_attempt = i;
     }
 })
