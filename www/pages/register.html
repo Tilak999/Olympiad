@@ -1,0 +1,65 @@
+<div class="page animated fadeIn" id="register">
+    <div class="header">Register</div>
+    <div class="panel register-panel" ng-controller="register">
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <input class="mdl-textfield__input" type="text" ng-model="name">
+            <label class="mdl-textfield__label">Full Name</label>
+        </div>
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <input class="mdl-textfield__input" type="text" ng-model="father">
+            <label class="mdl-textfield__label">Father's Name</label>
+        </div>
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="mobile">
+            <label class="mdl-textfield__label">Mobile</label>
+            <span class="mdl-textfield__error">Input is not a mobile number!</span>
+        </div>
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <input class="mdl-textfield__input" type="email" ng-model="email">
+            <label class="mdl-textfield__label">E-mail</label>
+            <span class="mdl-textfield__error">Invalid E-mail id.</span>
+        </div>
+
+        <div class="mdl-dropdown">
+            <div>Academic Session</div>
+            <select ng-model="session">
+                <option>2015-16</option>
+                <option>2016-17</option>
+            </select>
+        </div>
+
+        <div class="mdl-dropdown">
+            <div>Board</div>
+            <select ng-model="board">
+                <option>CBSE</option>
+                <option>ICSE</option>
+                <option>MP Board</option>
+            </select>
+        </div>
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <input class="mdl-textfield__input" type="text" ng-model="scholar">
+            <label class="mdl-textfield__label">Scholar No</label>
+        </div>
+
+        <div class="mdl-dropdown">
+            <div>Your School</div>
+            <select ng-model="school">
+                <option>National Public School</option>
+                <option>Advanced Academy</option>
+                <option>St Arnolds School</option>
+                <option>Choithram School Indore</option>
+                <option>Delhi Public School</option>
+                <option>The Emerald Heights International School</option>
+            </select>
+        </div>
+
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit()">
+            Submit
+        </button>
+    </div>
+</div>

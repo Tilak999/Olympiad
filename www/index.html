@@ -1,188 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
-        <link rel="stylesheet" type="text/css" href="css/index.css">
-        <link rel="stylesheet" type="text/css" href="css/material.css">
-        <script type="text/javascript" src="js/material.min.js"></script>
-        <title>Olympiad</title>
-    </head>
 
-    <body ng-app="myApp" ng-controller="Controller">
-        <div class="page" id="flash-screen">
-            <div class="logo">
-                <img src="img/large-logo.png" width="100%">
-            </div>
-            <div class="spinner">
-                <div class="mdl-spinner mdl-js-spinner is-active"></div>
-            </div>
-            <div class="cloud">
-            </div>
+<head>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/material.css">
+    <script type="text/javascript" src="js/material.min.js"></script>
+    <title>Olympiad</title>
+</head>
+
+<body ng-app="myApp">
+
+    <div class="page" id="flash-screen">
+        <div class="logo">
+            <img src="img/large-logo.png" width="100%">
         </div>
-
-        <div class="page fadeIn" id="home">
-            <div class="logo" ng-click="about()">
-                <img src="img/home-logo.png" width="100%">
-            </div>
-            <div class="menu">
-                <div ng-click="notification()" class="item button" style="background-color:#62DE9B">Notification</div>
-                <div ng-click="result()" class="item button" style="background-color:#FF1495">Result</div>
-                <div ng-click="syllabus()" class="item button" style="background-color:#F36B42">Syllabus</div>
-                <div ng-click="test()" class="item button" style="background-color:#FFB814">Start Practice Test</div>
-                <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Register Now!</div>
-                <br><br><br><br>
-            </div>
-
-            <div class="cloud"></div>
+        <div class="spinner">
+            <div class="mdl-spinner mdl-js-spinner is-active"></div>
         </div>
-
-        <div class="page fadeIn" id="notification">
-            <div class="header">Notifications</div>
-            <div class="panel notification-panel">
-                <div class="info-area">
-                    <div class="loading-div" ng-show="notify_hide">
-                        <div class="spinner"><div class="mdl-spinner mdl-js-spinner is-active"></div></div>
-                        <div class="text">fetching notifications</div>
-                    </div>
-                    <div class="error-div hide">
-                        <div class="icon"><center><i class="material-icons">error_outline</i></center></div>
-                        <div class="text"><center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center></div>
-                    </div>
-                </div>
-                <div ng-hide="notify_hide" class="notification" ng-repeat="x in notify_data">
-                    <div class="circle">{{x.title[0]|uppercase}}</div>
-                    <div class="title">{{x.title}}</div>
-                    <div class="body">{{x.body}}</div>
-                </div>
-            </div>
-            </div>
+        <div class="cloud">
         </div>
+    </div>
 
-        <div class="page fadeIn" id="register">
-            <div class="header">Register</div>
-            <div class="panel register-panel" ng-controller="register">
-                
-                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" ng-model="name">
-                    <label class="mdl-textfield__label">Full Name</label>
-                </div>
+    <div class="ng-view"></div>
 
-                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" ng-model="father">
-                    <label class="mdl-textfield__label">Father's Name</label>
-                </div>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/angular-route.min.js"></script>
+    <script type="text/javascript" src="js/ng-cordova.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
 
-                 <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="mobile">
-                    <label class="mdl-textfield__label">Mobile</label>
-                    <span class="mdl-textfield__error">Input is not a mobile number!</span>
-                </div>
-
-                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="email" ng-model="email">
-                    <label class="mdl-textfield__label">E-mail</label>
-                    <span class="mdl-textfield__error">Invalid E-mail id.</span>
-                </div>
-
-                <div class="mdl-dropdown">
-                    <div>Academic Session</div>
-                    <select ng-model="session">
-                        <option>2015-16</option>
-                        <option>2016-17</option>
-                    </select>
-                </div>
-
-                <div class="mdl-dropdown">
-                    <div>Board</div>
-                    <select ng-model="board">
-                        <option>CBSE</option>
-                        <option>ICSE</option>
-                        <option>MP Board</option>
-                    </select>
-                </div>
-
-                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" ng-model="scholar">
-                    <label class="mdl-textfield__label">Scholar No</label>
-                </div>
-
-                <div class="mdl-dropdown">
-                    <div>Your School</div>
-                    <select ng-model="school">
-                        <option>National Public School</option>
-                        <option>Advanced Academy</option>
-                        <option>St Arnolds School</option>
-                        <option>Choithram School Indore</option>
-                        <option>Delhi Public School</option>
-                        <option>The Emerald Heights International School</option>
-                    </select>
-                </div>
-                
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit()">
-                    Submit
-                </button>
-            </div>
-        </div>
-
-        <div class="page fadeIn" id="test" ng-controller="test">
-            <div class="header">Practice Test</div>
-            <div class="panel">
-                <div class="test-type" ng-hide="$parent.selector_hide">
-                    <center><h5>Select test Pattern</h5></center>
-                    <div ng-click="pattern('cet')">CET</div>
-                    <div ng-click="pattern('jee')">JEE</div>
-                </div>
-
-                <div class="info-area">
-                    <div class="loading-div" ng-show="loading">
-                        <div class="spinner"><div class="mdl-spinner mdl-js-spinner is-active"></div></div>
-                        <div class="text">fetching Test Paper</div>
-                    </div>
-                    <div class="error-div hide">
-                        <div class="icon"><center><i class="material-icons">error_outline</i></center></div>
-                        <div class="text"><center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center></div>
-                    </div>
-                </div>
-
-                <div class="test-area" ng-hide="!$parent.selector_hide || loading ">
-                    <div class="test-div" ng-hide="test_hide">
-                       <h5>{{Qcount}}) {{question}}</h5>
-                       <div class="choices">
-                            <div ng-repeat="choice in choices">
-                                <label><input type="radio" name="options" ng-click="setAns(choice.id)">
-                                {{choice.text}}
-                                </label>
-                            </div>
-                       </div>
-
-                       <div class="test_btn_holder">
-                            <div>
-                                <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="prev_question()" ng-disabled="prev">Previous</button>
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit_test()">Submit</button>
-                                <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="next_question()" ng-disabled="next">Next</button>
-                            </div>
-                       </div>
-                    </div>
-                    <div class="result-div" ng-show="test_hide">
-                        <center>
-                            <h4>Your Score</h4>
-                            <h1>{{result_score}}</h1><br>
-                            <p>You have correctly answered {{result_correct_ans}}
-                                out of {{result_qsn_attempt}} attempted questions.
-                            </p>
-                        </center>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <script type="text/javascript" src="js/angular.min.js"></script>
-        <script type="text/javascript" src="js/jquery.js"></script>
-        <script type="text/javascript" src="js/custom.js"></script>
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-    </body>
 </html>

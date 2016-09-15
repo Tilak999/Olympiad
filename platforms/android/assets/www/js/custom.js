@@ -30,10 +30,17 @@ var main = {
         }
 }
 
-var app = angular.module("myApp", []);
+var app = angular.module("myApp", ['ngCordova']);
 
-app.controller("Controller", function($scope,$http) {
+app.controller("Controller", function($scope,$http,$cordovaDevice) {
     
+     document.addEventListener("deviceready", function () {
+
+    var platform = $cordovaDevice.getPlatform();
+    alert(platform);
+
+  }, false);
+
    $scope.notify_data = [];
    $scope.notify_hide = true;
 
