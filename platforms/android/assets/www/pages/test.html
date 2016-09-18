@@ -1,0 +1,58 @@
+<div class="page fadeIn" id="test" ng-controller="test">
+    <div class="header">Practice Test</div>
+    <div class="panel">
+        <div class="test-type" ng-hide="hideSelector">
+            <center>
+                <h5>Select test Pattern</h5>
+            </center>
+            <div ng-click="pattern('cet')">CET</div>
+            <div ng-click="pattern('jee')">JEE</div>
+        </div>
+
+        <div class="info-area">
+            <div class="loading-div" ng-show="loading">
+                <div class="spinner">
+                    <div class="mdl-spinner mdl-js-spinner is-active"></div>
+                </div>
+                <div class="text">fetching Test Paper</div>
+            </div>
+            <div class="error-div hide">
+                <div class="icon">
+                    <center><i class="material-icons">error_outline</i></center>
+                </div>
+                <div class="text">
+                    <center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center>
+                </div>
+            </div>
+        </div>
+
+        <div class="test-area" ng-hide="!selector_hide || loading ">
+            <div class="test-div" ng-hide="test_hide">
+                <h5>{{Qcount}}) {{question}}</h5>
+                <div class="choices">
+                    <div ng-repeat="choice in choices">
+                        <label><input type="radio" name="options" ng-click="setAns(choice.id)">
+                        {{choice.text}}
+                        </label>
+                    </div>
+                </div>
+
+                <div class="test_btn_holder">
+                    <div>
+                        <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="prev_question()" ng-disabled="prev">Previous</button>
+                        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit_test()">Submit</button>
+                        <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="next_question()" ng-disabled="next">Next</button>
+                    </div>
+                </div>
+            </div>
+            <div class="result-div" ng-show="test_hide">
+                <center>
+                    <h4>Your Score</h4>
+                    <h1>{{result_score}}</h1><br>
+                    <p>You have correctly answered {{result_correct_ans}} out of {{result_qsn_attempt}} attempted questions.
+                    </p>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>

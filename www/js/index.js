@@ -12,7 +12,6 @@ var app = {
         app.loadAssets("style.css", "css");
         setTimeout(function() {
             $("#flash-screen").hide();
-            location.hash = '/home';
         }, 1500);
     },
 

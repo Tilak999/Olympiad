@@ -10,9 +10,14 @@ app.config(function($routeProvider) {
 
     $routeProvider
 
-        .when('/home', {
-        templateUrl: 'pages/home.html',
-        controller: 'home'
+    .when('/', {
+    templateUrl: 'pages/home.html',
+    controller: 'home'
+    })
+
+    .when('/home', {
+    templateUrl: 'pages/home.html',
+    controller: 'home'
     })
 
     .when('/notification', {
