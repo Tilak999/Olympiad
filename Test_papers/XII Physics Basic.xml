@@ -1,0 +1,4418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<tcexamquestions version="11.4.002">
+<header lang="en" date="2014-03-17 14:30:44">
+</header>
+<body>
+<module>
+<name>JEE</name>
+<enabled>true</enabled>
+<subject>
+<name>Physics</name>
+<description>Physics XII Basic MCQ</description>
+<enabled>true</enabled>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Metals are good conductors of electricity because</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> the atoms are lightly packed </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>they contain free electrons </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>  they have high melting point </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> All of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Pick out the scalar quantity</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> force  </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>pressure  </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> velocity </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> acceleration</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Rectifiers are used to convert</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Direct current to Alternating current . </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Alternating current to Direct current </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>high voltage to low voltage </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>low voltage to high voltage</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>out of the following, which is not emitted by radioactive substance? </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Alpha particles</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Electrons</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Electromagnetic radiations </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>  Neutrons</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Magnetism at the centre of a bar magnet is
+</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> minimum </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> zero</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> maximum  </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> minimum or maximum</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>On a rainy day, small oil films on water show brilliant colours. This is due to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>dispersion</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>interference</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>diffraction</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>polarization </description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Point A is at a lower electrical potential than point B. An electron between them on the line joining them will</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>move towards A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>move towards B</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>move at right angles to the line joining A and B</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>remain at rest</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Suitable impurities are added to a semiconductor depending on its use. This is done in order to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>increase its life</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>increase its electrical conductivity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>enable it to withstand higher voltages</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>increase its electrical resistivity</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Stars twinkle because</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the intensity of light emitted by them changes with time</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the refractive index of the different layers of the earth's atmosphere changes continuously, consequently the position of the image of a start changes with time</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the distance of the stars from the earth changes with time</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the light from the star is scattered by the dust particles and air molecules in the earth's atmosphere</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Superconductors are substances which</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>conduct electricity at low temperature</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>offer no resistance to the flow of electricity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>offer high resistance to the flow of current</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>conduct electricity at high temperatures</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Light travels at the fastest speed in</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>glass  </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>vacuum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> water </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> hydrogen </description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Radio telescopes are better than optical telescopes because</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>they can detect faint galaxies which no optical telescope can</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>All of the above</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>they can work during the day and night</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>they can work even in cloudy conditions</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Light Emitting Diodes (LED) is used in fancy electronic devices such as toys emit</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>X-rays</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>visible light</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>ultraviolet light</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>radio waves</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Optical fibre works on the</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>principle of refraction</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>total internal reflection</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>scattering</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>interference</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Rainbow is due to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>absorption of sunlight in minute water droplets</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>refraction and reflection of sunlight by water droplets</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>ionisation of water deposits</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>diffusion of sunlight through water droplets</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Stars which appear single to the naked eye but are double when seen through a telescope are</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>novas and supernovas</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>binaries</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>asteroids</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>quasars</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Solar eclipse will take place when</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the sun is between the moon and the earth</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the moon is between the sun and the earth</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the earth is between the moon and the sun</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the moon does not lie on the line joining the sun and the earth</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Isotopes of an element contain</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the same number of neutrons but different number of protons</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the same number of protons but different number of neutrons</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>equal number of protons and electrons</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>equal number of nucleons</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>One watt-hour is equivalent to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>6.3 x 103 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3.6 x 103 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>6.3 x 10-7 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3.6 x 10-3 J</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Sir C.V. Raman was awarded Nobel Prize for his work connected with which of the following phenomenon of radiation</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Diffraction</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Scattering</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Interference</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Polarization</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>In which of the following industries is mica as a raw material</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Cement</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Electrical</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Iron and Steel</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Glass and Pottery</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Radiocarbon dating technique is used to estimate the age of</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>monuments</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>fossils</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>soil</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>rocks</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Large astronomical telescopes always use as objective</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>lens</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>combinations of lenses</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>mirror</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>None of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>One should not connect a number of electrical appliances to the same power socket because</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>this can damage the appliances due to overloading</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>this can damage the electrical meter</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>this can damage the domestic wiring due to overloading</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>the appliance will not get full voltage</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Natural radioactivity was discovered by</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Marie Curie</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Henri Becquerel</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Ernest Rutherfor</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Enrico Fermi</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Planets are</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>luminous heavenly bodies revolving around a star</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>non-luminous heavenly bodies</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>luminous heavenly bodies that twinkle</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>luminous heavenly bodies that do not twinkle</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Mica is used in electrical appliances such as electric iron because mica is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>a bad conductor of heat but a good conductor of electricity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>a good conductor of heat but a bad conductor of electricity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>a good conductor of heat as well as electricity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>a bad conductor of heat as well as electricity</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A certain current on passing through a galvanometer produces a deflection of 100 divisions. When a shunt of one ohm is connected, the deflection reduces to 1 division. The galvanometer resistance is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>100 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>99 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>10 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>9.9 W</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A convex and a concave lens seperated by distance d are then put in contact. The focal length of the combination</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> decreases</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> increases</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>becomes 0</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>remains the same</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current of 5A is flowing at 220 V in the primary coil of a transformer. If the voltage produced in the secondary coil is 2200 V and 50% of power is lost, then the current in the secondary will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2.5 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.25 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 5 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.5 A</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A horizontal metal wire is carrying an electric current from the north to the south. Using a uniform magnetic field, it is to be prevented from falling under gravity. The direction of this magnetic field should be towards the</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>west</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> east</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> north</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> south</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A metal wire is subjected to a constant potential difference. When the temperature of the metal wire increases, the drift velocity of the electron in it</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> increases, thermal velocity of the electron decreases</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>decreases, thermal velocity of the electron increases</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> increases, thermal velocity of the electron increases</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>decreases, thermal velocity of the electron decreases</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current of 5A is flowing at 220 V in the primary coil of a transformer. If the voltage produced in the secondary coil is 2200 V and 50% of power is lost, then the current in the secondary will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.5 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.25 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 2.5 A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 5 A</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A mass of 10 kg is suspended from a spring balance. It is pulled aside by a horizontal string so that it makes an angle of` 600 with the vertical. The new reading of the balance is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>10 kg.wt</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 20 kg.wt</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>30kg.wt</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>50kg.wt</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A charge Q is enclosed by a Gaussian spherical surface of radius R. If the radius is doubled, then the outward electric flux will</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Be doubled</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Remain the same</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Be reduced to half</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Increase four times</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A convex lens of focal length 30 cm produces 5 times magnified real image of an object. What is the object distance?</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>25 cm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 36 cm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 30 cm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 150 cm</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A count rate meter shows a count of 240 per minute from a given radioactive source. One hour later the meter shows a count rate of 30 per minute. The half-life of the source is _______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>30 min</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>20 min</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>80 min</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>120 min</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A ray of light enters from a rarer to a denser medium. The angle of incidence is i. Then the reflected and refracted rays are mutually perpendicular to each other. The critical angle for the pair of media is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Sin-1(Tan i)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Sin-1(Cot i)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Cos-1(Tan i)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Tan-1(Sin i)</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>According to Einstein's photoelectric equation, the graph of K.E. of the photoelectron emitted from the metal versus the frequency of the incident radiation gives a straight line graph, whose slope </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>depends on the nature of the metal.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> is same for all metals and independent of the intensity of the incident radiation.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> depends on the intensity of the incident radiation.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> depends on the nature of the metal and also on the intensity of incident radiation.</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>An ideal choke draws a current of 8A when connected to an AC supply of 100 V, 50 Hz. A pure resistor draws a current of 10 A when connected to the same source. The ideal choke and the resistor are connected in series and then connected to the AC source of 150 V, 40 Hz. The current in the circuit becomes ______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 18A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>10.63A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 8A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>10A</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Blue colour of sea water is due to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>interference of sunlight reflected from the water surface</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> scattering of sunlight by the water molecules</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> image of sky in water</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> refraction of sunlight</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Critical angle for certain medium is Sin-1 (0.6). The polarizing angle of that medium is </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Tan-1 [0.6667]</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Tan-1 (1.6667)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Tan-1 [1.5]</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> s1n-1[0.8]</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Electromagnetic wave consists of periodically oscillating electric and magnetic vectors</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>in randomly oriented planes but vibrating in phase.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> in mutually perpendicular planes but vibrating in phase.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> in mutually perpendicular planes but vibrating with a phase difference of p</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> in mutually perpendicular planes but vibrating with a phase difference of p/f</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>For a series LCR circuit at resonance, the statement which is not true is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Peak energy stored by a capacitor = peak energy stored by an inductor</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Power factor is zero</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Wattless current is zero</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Average power = apparent power</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>How many 6mF, 200 V condensers are needed to make a condenser of 18 pF, 600 V?</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>9</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>27</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>18</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Hydrogen atom does not emit X-rays because</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>it contains only a single electron</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> energy levels in it are very close to each other</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> its size is very small</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> energy levels in it are far apart</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>If an electron and a proton have the same de-Broglie wavelength, then the kinetic energy of the electron is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> zero</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> more than that of a proton</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> equal to that of a proton</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> less than that of a proton</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>In a series resonant R-L-C circuit, the voltage across R is 100 V and the value of R = 1000 W. The capacitance of the capacitor is 2 X 10^(-6) F; angular frequency of AC is 200 rad s-1. Then the P.D. across the inductance coil is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>40 V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 250 V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 100 V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 400 V</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>In an unbiased p-n junction</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Potential at p is more than that at n</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Potential at p is less than that at n</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Potential at p is equal to that at n</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Potential at p is +ve and that at n is -ve</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>In Young's double slit experiment, a third slit is made in between the double slits. Then</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> intensity of fringes totally disappears.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> contrast between bright and dark fringes is reduced.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> fringes of unequal width are formed.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> only bright light is observed on the screen.</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Maximum diffraction takes place in a given slit for</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> g- rays</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> radio waves</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> infrared light</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> ultraviolet light</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>On bombarding U235 by slow neutron, 200 MeV energy is released. If the power output of atomic reactor is 1.6 MW, then the rate of fission will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>5 X 10^22/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 5 X10^16/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 20 X 10^16/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 8 X10^16/s</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Pick out the correct statement from the following :</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> pu239 is not suitable for a fission reaction.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Packing fraction may be positive or may be n</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> For stable nucleus, the specific binding energy is low.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Energy released per unit mass of the reactant is less in case of fusion reaction.</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Pick out the statement which is NOT correct.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Movement of holes is restricted to the valence band only.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Width of the depletion region increases as the forward bias voltage increases in case of a PN junction diode.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> At a low temperature, the resistance of a semiconductor is very high.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> In a forward bias condition, the diode heavily conducts</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Red light of wavelength 625 nm is incident normally on an optical diffraction grating with 2 X 10^5 lines/m. Including central principal maxima, how many maxima may be observed on a screen which is far from the grating?</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>8</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>17</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>15</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>16</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Solar spectrum is an example for</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> line emission spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> line absorption spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> band absorption spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> continuous emission spectrum</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The charges Q, + q and + q are placed at the vertices of an equilateral triangle of side l. If the net electrostatic potential energy of the system is zero, then Q is equal to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> -q</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> -0.5q</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> +0.5q</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The de-Broglie wavelength of the electron in the ground state of the hydrogen atom is _____ (radius of the first orbit of hydrogen atom = 0.53 A).</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.06Angstrom</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3.33Angstrom</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.53Angstrom</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.67Angstrom</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The focal length of a plano convex lens is 'f' and its refractive index is 1.5. It is kept over a plane glass plate with its curved surface touching the glass plate. The gap between the lens and the glass plate is filled by a liquid. As a result, the effective focal length of the combination becomes 2f. Then the refractive index of the liquid is ______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.25</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.5</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.33</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The maximum kinetic energy of emitted electrons in a photoelectric effect does not depend upon</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> wavelength</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> intensity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> frequency</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> work function</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The masses of two radioactive substances are same and their half lives are 1 year and 2 years respectively. The ratio of their activities after 6 years will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 4</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 6</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 2</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The maximum number of possible interference maxima when slit separation is equal to 4 times the wavelength of light used in a double slit experiment is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>Infinity</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>9</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>8</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>4</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The ratio of minimum wavelengths of Lyman and Balmer series will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.25</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.25</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>5</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>10</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The spectrum of an oil flame is an example for _____.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>line absorption spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> continuous emission spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> line emission spectrum</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> band emission spectrum</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The wavelength of the light used in Young's double slit experiment is l. The intensity at a point on the screen where the path difference is is I. If I0 denotes the maximum intensity, then the ratio of I and I0 is _____</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.707</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.75</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.866</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.5</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>There is a uniform magnetic field directed perpendicular and into the plane of the paper. An irregular shaped conducting loop is slowly changing into a circular loop in the plane of the paper. Then ______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> AC is induced in the loop.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> current is induced in the loop in the anti-clockwise direction.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> current is induced in the loop in the clockwise direction.</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> no current is induced in the loop.</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Two identical conducting balls A and B have positive charges q1 and q2 respectively. But q1 ? q2. The balls are brought together so that they touch each other and then kept in their original positions. The force between them is .</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> same as that before the balls touched</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> zero</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> greater than that before the balls touched</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> less than that before the balls touched</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Two identical metal spheres charged with +12mF and -8mF are kept at certain distance in air. They are brought into contact and then kept at the same distance. The ratio of the magnitudes of electrostatic forces between them before and after contact is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 12 : 1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 24 : 1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>  4 : 1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>  8 : 1</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Two similar circular loops carry equal currents in the same direction. Un moving the coils further apart, the electric current will</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> increases in one and decreases in the second</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> increase in both</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> remain unaltered</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> decrease in both</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Two tangent galvanometers A and B are identical except in their number of turns. They are connected in series. On passing a current through them, deflections of 600 and 300 are produced. The ratio of the number of turns in A and B is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 3 : 1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 : 2</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 2 : 1</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>What is the minimum thickness of a thin film required for constructive interference in the reflected light from it? Given, the refractive index of the film = 1.5, wavelength of the light incident on the film = 600 nm.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 50 nm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 100 nm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 200 nm</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 300 nm</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Which of the following is a dichroic crystal?</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Quartz</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Tourmaline</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Mica</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Selenite</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A circular coil carrying a certain current produces a magnetic field Bo at its centre. The coil is now rewound so as to have 3 turns and the same current is passed through it. The new magnetic field at the centre is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 3Bo</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 9Bo</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Bo/9</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Bo/3</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current of 5 A is passing through a metallic wire of cross- sectional area 4x10^(-6)m^2. If the density of charge carriers of the wire is 5 X 10^26 m^(-3) , the drift velocity of the electrons will be</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 x 10^(-2)m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.56 x 10^(-2)m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 x 10^2m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.56 x 10^(-3)m/s</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A parallel plate condenser has a uniform electric field E (V/m) in the space between the plates. If the distance between the plates is d (m) and area of each plate is A (m2) the energy (joules) stored in the condenser is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> E2Ad/e0</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1/2e0E^(2 ) Ad</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> e0EAd</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>None of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A ray of light is travelling from glass to air. (Refractive index of glass = 1.5) The angle of incidence is 50 degree. The deviation of the ray is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>30degree</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>80degree</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>None of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A spherical drop of capacitance 1 micro farad is broken into eight drops of equal radius. Then, the capacitance of each small drop is _______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1/8 micro farad</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1/2 micro farad</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1/4 micro farad</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>None of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>An inductance of 200/p mH, a capacitance of 0.001/p  F and a resistance of 10W are connected in series with an a.c. source 220 V, 50Hz. The phase angle of the circuit is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p/2</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p /4</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p /3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p /6</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>If two waves of the same frequency and amplitude respectively on superposition produce a resultant disturbance of the same amplitude the waves differ in phase by _______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p/3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2p/3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>p</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Zero</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>lf M is the atomic mass and A is the mass number, packing fraction is given by _______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>(A-M)/A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>(M-A)/A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>M/A-M</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>A/A-M</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Oxygen is 16 times heavier than hydrogen. Equal volumes of hydrogen and oxygen are mixed. The ratio of speed of sound in the mixture to that in hydrogen is _______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>v(1/8)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>v(2/17)</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>v8</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>v(32/17)</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The acceleration due to gravity becomes g/2 where g = acceleration due to gravity on the surface of the earth at a height equal to</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>R/2</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>R/4</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>R</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>4R</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A and B are two metals with threshold frequencies 1.8 X 10^14HZ and 2.2 x 10^14Hz. Two identical photons of energy 0.825 eV each are incident on them. Then photoelectrons are emitted in</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>B alone </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>A alone</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> in both A and B </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>None of the above</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A 20 cm length of a certain solution causes right handed rotation of 38 degree. A 30 cm length of another solution causes left handed rotation of 24 degree. The optical rotation caused by 30 cm length of a mixture of the above solutions in the volume ratio 1 : 2 is </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> left handed rotation of 3 degree</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>right handed rotation of 3 degree </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> right handed rotation of 14 degree</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> left handed rotation of 14degree</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A 1250 W heater operates at 115 V. What is the resistance of the heating coil?</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.6 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 10.6 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 13.5WW</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1250 W</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>1 curie represents</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1 disintegration per second</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3.7 X 10^10 disintegrations per second</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 3.7 x 10^7 disintegrations per second</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 10^6 disintegrations per second</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>1.56 x 10^5 J of heat is conducted through a 2 m^2 wall of 12 cm thick in one hour. Temperature difference between the two sides of the wall is 20 degree Centigrade. The thermal conductivity of the material of the wall is (in W m^(-1) K^(-1)</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.11</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.13</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>0.15</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.2</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A charged cloud system produces an electric field in the air near the earth's surface. A particle of charge -2 x 10^(-9) C is acted on by a downward electrostatic force of 3 x 10^(-6) N when placed in this field. The gravitational and electrostatic force, respectively, exerted on a proton placed in this field are</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.64 x 10^-26) N, 1.5 x 10^3 N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.64 x 10^(-26) N, 2.4 x 10^(-16) N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.56 x 10^(-18) N, 2.4 x 10^(-16) N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.5 x 10^3 N, 2.4 x 10^(-16) N</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A conductor wire having 10^29 free electrons/m3 carries a current of 20 A. If the cross-section of the wire is 1 mm^2, then the drift velocity of electrons will be ______.</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>6.25 x 10^(-3) m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.25 x 10^(-3) m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1.25 x 10^(-5) m/s</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1.25 x 10^(-4) m/s</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A cricket ball of mass 0.25 kg with speed 10 m/s collides with a bat and returns with same speed within 0.01 S. The force acted on bat is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>25 N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>500 N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 50 N</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>250 N</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A cubical vessel of height 1 m is full of water. What is the amount of work done in pumping water out of the vessel? (Take g =10 m/ s^2)</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1250 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 5000 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1000 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 2500 J</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current flows in a conductor from east to west. The direction of the magnetic Held at a point above the conductor is </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> towards south</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>towards north</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> towards east</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> towards west</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current of 2/3  A produces a deflection of 60 degree in a tangent galvanometer. The reduction factor is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>3/2A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2/3A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2/3  A</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>2A</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A current of 2 A flows through a 2 W resistor when connected across a battery. The same battery supplies a current of 0.5 A when connected across a 9 Wresistor. The internal resistance of the battery is</description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>1 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1/3 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.5 W</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 1/4 W</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A 5 micro farad capacitor is charged by a 220 V supply. It is then disconnected from the supply and is connected to another uncharged 2.5 microfarad capacitor. How much electrostatic energy of the first capacitor is lost in the form of heat and electromagnetic radiation ? </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.02 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.04 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.121 J</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 0.081 J</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>Four identical capacitors are connected in series with a 10 V battery as shown in the figure. Potentials at A and B are </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 10 V, 0 V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description>7.5 V, -2.5 V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 5 V, -5V</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 7.5 V, 2.5 V</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>There are 10 condensers each of capacity 5 microfarad . The ratio between maximum and mini-mum capacities obtained from these condensers will be </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 40 : 1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 100:1</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 60 : 3</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 25 : 5</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description> Point charges q1 = 2 microcoulomb and q 2 = -1 microcoulomb are kept at points x = 0 and x = 6 respectively. Electrical potential will be zero at points ..... </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> x = -2, x = 2   </description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> x = 4, x = 12</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> x = 1, x = 5</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> x = 2, x = 9</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>A simple pendulum of period T has a metal bob which is negatively charged. If it is allowed to ascillate above a positively charged metal plate, its period will ........ </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Remains equal to T</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Less than T</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Greater than T</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> Infinite</description>
+<explanation></explanation>
+</answer>
+</question>
+<question>
+<enabled>true</enabled>
+<type>single</type>
+<difficulty>1</difficulty>
+<position></position>
+<timer>0</timer>
+<fullscreen>false</fullscreen>
+<inline_answers>false</inline_answers>
+<auto_next>true</auto_next>
+<description>The electric Potential V at any Point o (x, y, z all in metres) in space is given by V = 4x2 volt. The electric field at the point (1m, 0.2m) in volt/metre is ...... </description>
+                                        <explanation></explanation>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 8, along positives x - axis</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>true</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 8, along negative x - axis</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 16, along positives x - axis</description>
+<explanation></explanation>
+</answer>
+<answer>
+<enabled>true</enabled>
+<isright>false</isright>
+<position></position>
+<keyboard_key></keyboard_key>
+<description> 16, along negative x - axis</description>
+<explanation></explanation>
+</answer>
+</question>
+</subject>
+</module>
+</body>
+</tcexamquestions>

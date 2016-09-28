@@ -1,0 +1,4096 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="11.4.002">
+	<header lang="en" date="2013-01-19 14:30:44">
+	</header>
+	<body>
+		<module>
+			<name>Science olympiad</name>
+			<enabled>true</enabled>
+			<subject>
+				<name> Mathematics - XII </name>
+				<description>basics </description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> evaluate [tex] \int_{}^{} \frac{x}{1+sinx}dx[/tex]
+
+
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{3}{2\sqrt{2}}tan^{-1} \frac{x^{3}-4}{{2\sqrt{2}}}+C [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{3}{2\sqrt{2}}tan^{-1} \frac{x^{2}-4}{{2\sqrt{2}}}+C [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \pi [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>solve[tex] \int_{0}^{\frac{\pi}{2}} \frac{x}{sinx+cosx}dx [/tex]
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] x(logx)=logx^{2}+c [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] xy(logx)=logx^{2}+c [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\pi}{2\sqrt{2}}log(1+\sqrt{2}) [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>solve[tex] \int_{-1}^{1} log(\frac{2-x}{2+x})dx [/tex]
+
+
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]1/6[/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   [tex] \frac{1}{x^{2}}=(y^{2}+1)+ce^{x^{2}} [/tex]       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> >[tex] \frac{1}{y^{2}}=(x^{2}+1)+ce^{y^{2}} [/tex]       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> >[tex]0 [/tex]     </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>solve [tex]\int_{0}^{\infty} (cotx)^{2}dx [/tex]</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> hyperbola   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Jacobi function </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]\pi log2[/tex]      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> none of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>solve [tex]\int_{0}^{a} x^{\frac{5}{2}}\sqrt{a-x}dx [/tex] 
+
+
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of below </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] tan\frac{y}{x}+logx=\sqrt{6} [/tex]	 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{5\pi a^{4}}{128} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>[tex] sec\frac{z}{x}+logx=\sqrt{5} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If y is  [tex] \int_{4}^{4x^{2}}t^{4}e^{4t} dx [/tex]then find[tex]\frac{d^{2}y}{dx^{2}} [/tex] 
+
+
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] y_{1}(x)\int_{}^{}\frac{r(x)}{y_{2}(x)}dx [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 2048e^{16x^{2}}  [/tex]	   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[ tex] \frac{1}{y(x)}\int_{}^{}y_{1}(x)dx  [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these  </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If y is [tex]\int_{0}^{x^{2}} log(1+t)dt then find \frac{d^{2}y}{dx^{2}}[/tex]
+
+
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] y_{1}(x)\int_{}^{}\frac{r(x)}{y_{2}(x)}dx [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{1}{5} [/tex]	   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[ tex] \frac{1}{y(x)}\int_{}^{}y_{1}(x)dx  [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these  </description>
+						<explanation></explanation>
+					</answer>
+</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Period of cot(x) is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 5?</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Period of 15 sec(x/3) is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>10? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2? </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Period of sinx/2 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4?  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 5?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6?   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 7? </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Period of 3secx/3 is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>6? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>9?</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Domain of sin(x) is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[-1 1] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>R</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> R-{0}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>R-{1}</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Period of cot2x is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?/3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?/2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2?/2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2?</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Solution of a quadratic equation x2+ 5x - 6 = 0</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>x = -1, x = 6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>x = 1, x = -6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>x = 1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>x = 6</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If |A| = 0, then A is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> zero matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> non-singular matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> singular matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> For a non-trivial solution | A | is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>|A| > 0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>|A| ? 0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>|A| = 0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Two matrices A and B are multiplied to get BA if</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>both are rectangular</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>both have same order</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>no of rows of A is equal to no of columns of B</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Matrices obtained by changing rows and columns is called</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> zero</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>transpose</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>symetric</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>rectangular matrix </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Period of 15sin(x/15) is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>10?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>30?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>15?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Tan(? + ?) =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>tan?-tan?/1 + tan?tan?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>tan?+tan?/1 - tan?tan?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cot?-cot?/1 + cot?cot?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cot?+cot?/1-cot?cot?</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Cos? + cos? = </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?2sin(? + ?/2)sin(?-?/2)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2cos(? + ?/2)sin(?-?/2)]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2cos(? + ?/2)cos(?-?/2)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If tan? [tex]\lt[/tex] 0, sin? [tex]\lt[/tex] 0, then terminal arm of angle lies in quadrant</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Sin(A+45°)sin(A-45°) =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2cos(2A)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?1/2cos(2A) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?1/2sin(2A)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Sin5?cos2? = </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [sin7?+sin3?] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> All are incorrect </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2[sin7?+sin3?]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2[sin7?-sin3?]</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Cot(90°-?) =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ?sin? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> tan?  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?tan?  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these   </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Sin(3?/2-?) = </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> cos? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?cos?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> sin? </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Sin(x+180°) + sin(x-180) = </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?sin(x)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sin(x) </description>
+						<explanation></explanation>
+					</answer>
+</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Tan(?+?) =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?tan?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>?cot?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>tan?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Cos20°cos40°cos80° =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1?8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> -1/2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>-1/6</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Cos20°+cos100°+cos140°=</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Cos?+cos3?+cos5?+cos7?/sin?+sin3?+sin5?+sin7? = </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>tan4?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>-tan4?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cot4?</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Let R be the relation over the set of all straight lines in a plane such that l1Rl2  l1  l2. Then, R is  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> reflexive </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> transitive   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> symmetric </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> an equivalence relation </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A = {1, 2, 3}, B = {1, 4, 6, 9} and R is a relation from A to B defined by ‘x is greater than y’. The range of R is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> {1, 4, 6, 9}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> {4, 6, 9}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> {1}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If R is the largest equivalence relation on a set A and S is any relation on A, then </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> R  S </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> R = S </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> S  R </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following is not an equivalence relation on Z ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a R b  a + b is an even integer </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a R b  a – b is an even integer 
+	 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a R b  a less than b </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> a R b  a = b </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Let the function f : R-{-b}  R- {1} be defined by f(x) =[tex]\frac{\text{x+}a}{\text{x+}b}[/tex] , a  b, then </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> f is one-one but not onto </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> f is both one-one and onto </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> f is onto but not one-one </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  The range of the function f (x) = 7-xPx-3 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> {1,2,3,4,5} </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{1,2,3}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{1,2,3,4,5,6} </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> {1,2,3,4} </description>
+						<explanation></explanation>
+					</answer>
+				
+
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Let f : R  R be given by f(x) = x2 – 3. Then, f-1 is given by </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]\sqrt{x+3}[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \sqrt{x-3}[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] X=\sqrt{3}[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  If a * b = a2 + b2, then the value of (4 * 5) * 3 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (42 + 52)+ 32 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (4 + 5)2 + 32</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 412 + 32 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (4 + 5 + 3)2</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The binary operation [tex]\star[/tex]
+ defined on N by a [tex]\star[/tex] b = a + b + ab for all a, b \in[tex]\in[/tex]  N is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> commutative and associative both</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> commutative only </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> associative only </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  For the binary operation [tex] \star [/tex]
+ on Z defined by a [tex] \star [/tex] b = a + b + 1 the identity element is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>-1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If a [tex] \star [/tex]
+ b = a2 + b2, then the value of (4 [tex] \star [/tex] 5) [tex] \star [/tex] 3 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (42 + 52)+ 32 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 412 + 32 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (4 + 5)2 + 32</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(4 + 5 + 3)2</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>2 tan-1{cosec (tan-1x) – tan (cot-1 x)} is equal to </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [cot-1]x </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex](cot-1) \frac{1}{X}[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> tan-1 x </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+
+
+
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A and B are two matrices such that AB = B and BA = A, then A2 + B2 is equal to </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2AB  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2BA </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> AB  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A + B </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A is a 3 × 4 matrix and B is a matrix such that A’B and B’A are both defined. Then, B is of the type </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3 × 4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3 × 3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4 × 4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4 × 3</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  The number of all possible matrices of order 3 × 3 with each entry 0 or 1 is :</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>27</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>512</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 18</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>81</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A = [aij] is a scalar matrix of order of n × n such that aij = k, for all i, then trace of A is equal to </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> nk  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> n + k  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{N}}{\text{K}} [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A and B are square matrices of order 2, then det (A + B) = 0 is possible only when </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> det (A) = 0 or det (B) = 0  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A + B = 0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> det (A) + det (B) = 0    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> det(A) = 0 and det(B) = 0 </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following is not correct in a given determinant of A, where A = [aij]3 × 3.    </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Order of minor is less than order of the det A)</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Value of a determinant is obtained by multiplying elements of a row or column by corresponding cofactors </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Minor of an element can never be equal to cofactor of the same element </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Order of minors and cofactors of elements of A is same </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A2 - A + I = 0, then the inverse of A is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A-2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A + I </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A - I </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> I - A </description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If A = [tex] begin{bmatrix}2 and 5 \\3 and -2 \end{bmatrix}[/tex] be such that A-1 =kA, then k equals </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>19 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> -19 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>-1/19 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/19 </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> For non-singular square matrix A, Band C of the same order (AB-1 C) =  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> A-1BC-1  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C-1BA-1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C-1B-1 C-1  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CBA-1 </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The system of equation x + y + z = 2, 3x - y + 2z = 6 and 3x + y + z = - 18 has </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> no solution </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a unique solution </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> an infinite number of solutions </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> zero solution as the only solution </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The coordinates of the point on the ellipse 16x2 + 9y2 = 400 where the ordinate decreases at the same rate at which the abscissa increases, are </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(-3, 16/3)  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (3, -16/3) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(3,-3) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(3, 16/3) </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If s = t3 - 4t2 + 5 describes the motion of a particle, then its velocity when the acceleration vanishes, is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{16}}{\text{9}}unit / sec [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]-\frac{\text{16}}{\text{3}}[/tex]unit/
+sec</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]-\frac{\text{32}}{\text{3}}[/tex] unit/sec
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]\frac{\text{4}}{\text{3}}[/tex]unit/sec
+</description>
+						<explanation></explanation>
+					</answer>
+
+
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If loge 4 = 1.3868, then loge 4.01 =</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1.3968  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1.3898 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1.3893  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If y = xn, then the ratio of relative errors in y and x is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> n : 1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1 :1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2 :1  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1: n </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If 4a + 7b + c = 0, then the equation 3ax2 + 2bx + c = 0 has at least one real root lying in the interval  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(0,1) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (1,2) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(0,2)  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The value of c in Lagrange's mean value theorem for the function f(x) =x (x - 2) when x  [1, 2] is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1/2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3/2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2/3 </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The equation of the normal to the curve y = x (2 - x) at the point (2, 0) is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> x - 2y + 2 = 0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> x - 2y = 2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2x + y = 4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2x + y - 4 = 0</description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Area bounded by the curve y = x3, the x-axis and the ordinates x = - 2 and x = 1 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> – 9 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{\text{-15}}{\text{4}}
+[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{17}}{\text{4}} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{15}}{\text{4}} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The integrating factor of the differential equation (x log x) [tex] \frac{\text{dy}}{\text{dx}} [/tex] + y = 2 log x, is given by  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> log x </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> log (log x) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ex </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> x </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The general solution of the differential equation [tex]\frac{\text{dy}}{\text{dx}}[/tex]= [tex]\frac{\text{y}}{\text{x}}[/tex] is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> logy = kx </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> y = kx </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> xy = k </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> y = k log x </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The differential equation which represents the family of curves y = eCx is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> y ln y = xy1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> y1 = C2y </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> xy1 - lny = 0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> x ln y = yy1 </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The general solution of the differential equation ex dy + (y ex + 2x) dx = 0 is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> xey + x2 = C </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> xey + y2 = C </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> yey + x2 = C </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> yex + x2 = C </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If in a binomial distribution n = 4, P (X = 0) = [tex] \frac{\text{16}}{\text{81}} [/tex], then P (X = 4) equals </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{1}}{\text{16}}[/tex]  
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{\text{1}}{\text{81}} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{1}}{\text{27}} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{\text{1}}{\text{8}} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+
+</question>
+ <question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Let R be a relation on the set N given by[tex] R = {(a, b) : a = b – 2, b > 6}[/tex]Then</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex](2, 4)  R[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex](1, 4)  R[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>
+[tex](6, 8)  R	[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+ <question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Let[tex]A=\left\{1,2,3\right\}[/tex]Then, the number of relations containing[tex]\ left\{1,2,\right\}and \left\{1,3,\right\}[/tex] which are reflexive and symmetric but not transitive is 
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4</description>
+						<explanation></explanation>
+					</answer>
+				
+
+
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Every invertible function is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>constant function</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>monotonic function</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>identity function</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>not necessarily monotonic function</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Subtraction of integers is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>commutative but not associative</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> neither commutative nor associative</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>>associative but not commutative</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>commutative and associative</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The law [tex]a + b = b +a [/tex] is called</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>closure law</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>commutative law</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>associative law</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>distributive law</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The number of binary operations that can be defined on a set of 2 elements is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>16</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>64</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If a matrix A is both symmetric and skew-symmetric, then </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a zero matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a diagonal matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a scalar matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a square matrix </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If A is a square matrix, then AA is a</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>skew-symmetric matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>symmetric matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>diagonal matrix</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If a matrix A is both symmetric and skew-symmetric, then </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a diagonal matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a scalar matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a zero matrix</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A is a square matrix</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In a sphere the rate of change of volume is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex][/tex]times the rate of change of radius
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>surface area times the rate of change of diameter
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>surface area times the rate of change of radius
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these
+</description>
+						<explanation></explanation>
+					</answer>
+
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>If the distance between vertex and focus is 3, then the length of latusrectum is ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>12</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>All values that could be putted into the function for which the function is defined and have real values is called of the function.</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>domain</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>range</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>validity test</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>reliability</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which from the following is NOT closed under multiplication?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{-1,0}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{0,1}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{-1,1}</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>{0}</description>
+						<explanation></explanation>
+					</answer>
+
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The line perpendicular to the tangent line is called </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>secant line</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>normal line</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>limit</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>derivative</description>
+						<explanation></explanation>
+					</answer>
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>A coin is tosed n times. The probability of getting at least once is greater than 0.8. Then, the leastvalue of n, is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8</description>
+						<explanation></explanation>
+					</answer>
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>A fair coin is tossed 100 times. The probability of getting tails an odd number of times is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3/8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>A rifleman is firing at a distant target and has only [tex]10% [/tex]chance of hitting it. The least number of rounds, he must fire in order to have more than [tex]50%[/tex]  chance of hitting it at least once is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>11</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>7</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>9</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The optimal value of the objective function is attained at the points</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> given by intersection of inequations with the axes only</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> given by corner points of the feasible region</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> given by intersection of inequations with x-axis only</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If the constraints in a linear programming problem are changed</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> solution is not defined</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> the problem is to be re-evaluated </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> the objective function has to be modified </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> the change in constraints is ignored
+</description>
+						<explanation></explanation>
+					</answer>
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The number of arbitrary constants in the particular solution of a differential equation of third order is
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> India play two matches each with West Indies and Australia. In any match the probabilities of India getting 0,1 and 2 points are 0.45, 0.05 and 0.50 respectively. Assuming that the outcomes are independent, the probability of India getting at least 7 points is
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/16</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0.0875</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0.1125 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> A coin is tossed three times. If events A and B are defined as A = Two heads come, B = Last should be head. Then, A and B are</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> dependent </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> independent </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> both </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Two persons A and B take turns in throwing a pair of dice. The first person to throw 9 from both dice will be awarded the prize. If A throws first, then the probability that B wins the game is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>9/17</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8/9</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>1/9</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8/17</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> From a set of 100 cards numbered 1 to 100, one card is drawn at random. The probability that the number obtained on the card is divisible by 6 or 8 but not by 24 is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1/4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6/25</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2/5</description>
+						<explanation></explanation>
+					</answer>
+
+</question>		
+
+</subject>
+</module>
+</body>
+</tcexamquestions>				
+

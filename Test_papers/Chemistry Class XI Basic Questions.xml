@@ -1,0 +1,5021 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="11.4.002">
+	<header lang="en" date="2013-01-19 14:30:44">
+	</header>
+	<body>
+		<module>
+			<name>SCIENCE OLYMPAID 2016-17</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>CHEMISTRY CLASS XI-BASIC LEVEL</name>
+				<description>MCQ</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The Lewis acid strength of BBr3, BCI3  and BF is in the order</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BF3   BCI3   BBr3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BBr3   BF3    BCI3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BBr3   BCI3   BF3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BCI3   BF3    BBr3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>O2–  is isoelectronic with </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description> Ni2+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> K+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Mg2+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Zn2+ </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The percentage of nitrogen by mass in ammonium sulphate is closest to (atomic masses H = 1, N = 14, O = 16, S = 32)  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 51%   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 21%</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 31%   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1%</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Mendeleev’s periodic law states that the properties of elements are  periodic function of their </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>atomic mass</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> atomic size   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> reactivity of elements   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> electronic configuration </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Maximum number of electrons that can be accommodated in the subshell with azimuthal quantum number I = 4, is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 10</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>18 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 12 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>16 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Reaction of 2-butene with acidic KMnO4 gives </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CH2OH  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3COOH </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> HCOOH  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH3CHO</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The gas released when baking soda is mixed with vinegar is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  CO2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CO </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>N2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>O2</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The element which readily forms an ionic bond has the electronic configuration </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1s22s22p2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p63s1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following is the energy of a possible excited state of hydrogen? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> –4.4 eV  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>+3.4 eV </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>–3.4 eV  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> –6.4 eV </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The color of KMnO4  is due to:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>M → L charge transfer transition</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>L → M charge transfer transition</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>d – d transition</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sigma – Sigma* transition </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following compounds is not an antacid?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Aluminium hydroxide </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Phenelzine</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ranitidine</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cimetidine </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In the context of the Hall-Heroult process for the extraction of Al, which of the following statements is false?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO and CO2 are produced in this process  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na3AlF6  serves as the electrolyte </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Al2O3 is mixed with CaF2  which lowers the melting point of the mixture and brings conductivity </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Al3+ is reduced at the cathode to form Al </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Which polymer is used in the manufacture of paints and lacquers?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Glyptal</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>PVC</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Buna-S </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                        <description> Bakelite</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The number of geometric isomers that can  exist  for  square planar  [Pt(Cl)(py)(NH3)(NH2OH)]+ is(py = pyridine): </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Higher order (>3) reactions are rare due to:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>low probability of simultaneous collision of all the reacting species  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>increase in entropy and activation energy as more molecules are involved</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>loss of active species on collision </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>shifting of equilibrium towards reactants due to elastic collisions</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which among the following is the most reactive? </description>
+		            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>ICl </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Br2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cl2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The synthesis of alkyl fluorides is best accomplished by:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sandmeyer’s reaction </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Finkelstein reaction </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Swarts reaction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Free radical fluorination </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Two Faraday of electricity is passed through a solution of CuSO4. The mass of copper deposited at the cathode is: (at. mass of Cu = 63.5 amu) </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 125 g </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>63.5 g </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>29.2 g </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 4 g </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>Which of the vitamins given below is water soluble?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Vitamin A  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Vitamin D   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Vitamin C  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Vitamin E  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following compounds is not colored yellow?</description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BaCrO4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> K3[Co(NO2)6]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(NH4)3[As(Mo3O10)4] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Zn2[Fe(CN)6]  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Sodium  metal crystallizes in  a body centred  cubic lattice with  a  unit  cell  edge of  4.29 A . The radius of
+sodium atom is approximately:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3.22 A  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> 0.93 A    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5.72 A </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1.86 A   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The vapour pressure of acetone at 20oC is 185 torr. When 1.2 g of a non-volatile substance was dissolved in 100 g of acetone at 20oC, its vapour pressure was 183 torr. The molar mass (g mol-1) of the substance is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> 48    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>128  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>64</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one has the highest boiling point?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>He   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Ne  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Kr </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Xe</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The functional group present in a molecule having the formula C12O9 is   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>carboxylic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> ketone  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> alcohol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>anhydride </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>A sweet smelling compound formed by reacting acetic acid with ethanol in the presence of hydrochloric acid is  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H5COOH</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>C2H5OH   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3OCH3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3COOC2H5 </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Among Mg, Cu, Fe, Zn, the metal that does not produce hydrogen gas in reaction with hydrochloric acid is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cu </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Mg </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Zn  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Fe</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>Which one of the following is not a common component of Photochemical Smog? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description>Ozone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Peroxyacetyl nitrate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Acrolein</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Chloroflurocarbons</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one of the following species has plane triangular shape?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>N3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NO2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO2</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following organic compounds polymerizes to form the polyester Dacron? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Terephthalic acid and ethylene glycol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzoic acid and para HO-(C6H4)-OH </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Propylene and para HO-(C6H4)-OH</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzoic acid and ethanol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Among the following complexes the one which shows Zero crystal field stabilization energy (CFSE) is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   [Co(H2O)6]3+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   [Fe(H2O)6]3+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [Mn(H2O)6]3+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[Co(H2O)6]2+</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Acidity of diprotic acids in aqueous solutions increases in the order:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2Te H2S H2Se  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> H2S H2Se H2Te </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2Se H2S H2Te  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2Se H2Te H2S</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which property of colloids is not dependent on the charge on colloidal particles?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Tyndall effect </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Electrophoresis </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Electro-Osmosis</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Coagulation</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following salts will give highest pH in water ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CuSO4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NaCl</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na2CO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>KCl </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following molecules has the maximum dipole moment ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NF3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NH3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Be2+ is isoelectronic with which of the following ions ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Li+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Mg2+ </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>What is the maximum number of orbitals that can be identified with the following quantum numbers ?  n = 3,  f = 1, ml = 0</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following hormones is produced under the condition of stress which stimulates glycogenolysis in the liver of human beings ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Estradiol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Adrenaline </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Thyroxin</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Insulin </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following complexes is used to be as an anticancer agent?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cis-[Pt Cl2 (NH3)2]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na2CoCl4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>cis-K2 [Pt Cl2 Br2] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                        <description> mer-Co (NH3)3Cl3]</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Reason of lanthanoid contraction is :</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Decreasing nuclear charge</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Negligible screening effect of 'f' orbitals</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Increasing nuclear charge </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Decreasing screening effect</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Equal masses  of  H2,O2 and methane have been taken in a container of volume V attemperature would be :</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 16 : 1 : 2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8 : 1 : 2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8 :  16 : 1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>16 : 8 : 1 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one of the following 0.10m aqueous solutions,which one will exhibit the largest freezing point depression?</description>
+				    <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Al2SO4)3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> K2SO4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>KCl </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C6H12O6</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following will not be soluble sodium hydrogen carbonate?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzenesulphonic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Benzoic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>o-Nitrophenol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2, 4, 6-trinitrophenol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following will be most stable diazonium salt RN2+X- ?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CH2 N2+X-</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C6H5 N2+X- </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C6H5CH2 N2+X-  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH3N2+X-  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>The pair of compounds that can exist together is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> FeCl2 ,SnCl2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>FeCl2 , KI  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HgCl2,SnCl2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>FeCl3 ,SnCl2</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following organic compounds has same hybridization as its combustion product(CO2)?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethanol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>Ethene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethyne </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In the Kjeldahl's method for estimation of nitrogen present in a soil sample, ammonia evolved from 0.75 g of sample neutralized 10 mL of 1M H2SO4. The percentage of nitrogen in the soil is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>35.33  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> 43.33    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>36.22</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>37.33 </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Among the following sets of reactants which one produces anisole?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C6H5OH;neutral FeCl3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>C6H5-CH3; CH3COCl; AlCl3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CHO;RMgX </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C6H5OH;NaOH;CH3I</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In acidic medium H2O2 changes Cr2O7 to CrO5 which has two -O-O- bonds.Oxidation state of Cr in CrO5 is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>+5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> -10</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> +10  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>+6   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Artificial sweetner which is stable under cold conditions only is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Alitame   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Saccharine  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Sucralose  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Aspartame</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Biodegradable polymer which can be produced from glycine and aminocaproic acid is :</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Buna–N</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>PHBV </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Nylon 6-6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Nylon 2–6  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The function of ―Sodium pump is a biological process operating in each and every cell of all animals. Which of the following biologically important ions is also a constituent of this pump ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>K+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ca2+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Fe2+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cu2+</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>Which of these statements about [Co(CN)6]3- is true ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description>[Co(CN)6]3-  has no unpaired electrons and will be in a high-spin configuration.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>[Co(CN)6]3-  has four unpaired electrons and will be in a low-spin configuration.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[Co(CN)6]3-  has no unpaired electrons and will be in a low-spin configuration </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[Co(CN)6]3-  has four unpaired electrons and will be in a high-spin configuration. </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>An organic compound ‗X‘ having molecular formula C5H10O yields phenyl hydrazone and gives negative response to the Iodoform test and Tollens test. It produces n-pentane on reduction. ‗X‘ could be : </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>n-amyl alcohol   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3-pentanone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3-pentanone   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2-pentanone</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following exhibits only +3 oxidation state? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Ac </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Pa   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> U   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Th </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In which of the following arrangements the given sequence is not strictly according to the property indicated against it? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO2 gt SiO2 gt SnO2 gt PbO2:increasing oxidising power</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2O gt H2S gt H2Se gt H2Te : increasing pKa values</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HF lt HCl lt HBr lt HI : increasing acidic strength</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NH3  lt PH3  lt AsH3  lt SbH3  : increasing acidic character</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Consider the reaction:
+RCHO+NH2-NH2 ---> RCH=N-NH2
+What sort of reaction is it?
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Electrophilic addition - elimination reaction  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Nucleophilic addition - elimination reaction </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Free radical addition - elimination reaction  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Electrophilic substitution elimination reaction</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>During change of O	to O2- ion,the electron adds on which one of the following orbitals?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> pai* orbital </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> pai orbital </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> sigma* orbital</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sigma orbital</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The catalytic activity of transition metals and their compounds is ascribed mainly to</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>their magnetic behaviour </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>their chemical reactivity</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>their ability to adopt variable oxidation states </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>their unfilled d-orbitals </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Equal volumes of two monoatomic gases, A and B,at same temperature and pressure are mixed.
+The ratio of specific heats (Cp/Cv) of the mixture will  be</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 0  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1.50 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1.67 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3.0 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one of the following does not correctly represent the correct order of the property indicated against it?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ti3+   V3+   Cr3+   Mn3+  : increasing magnetic moment</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ti lt V lt Cr  Mn : increasing melting points</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ti  V  Mn  Cr : increasing 2nd ionization enthalpy</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ti  V  Cr  Mn : increasing number of oxidation states </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Structure of a mixed oxide is cubic close-packed (c.c.p). The cubic unit cell of mixed oxide is composed of oxide ions. 
+					One fourth of  the tetrahedral voids  are occupied by divalent  metal A and  the octahedral voids are occupied by a monovalent metal B. 
+					The formula of the oxide  is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ABO2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> AB2O2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A2BO2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A2B3O4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following compounds can be used as antifreeze in automobile radiators?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethyl alcohol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Glycol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Methyl alcohol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Nitrophenol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>A certain gas takes three times as long to effuse out as helium. Its molecular mass will be:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>36 u</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>12 u</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 24 u</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                        <description> 64 u</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following reagents will be able to distinguish between 1-butyne and 2-butyne? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HCl</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NaNH2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> O2    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> K2SO4</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following compounds will give a yellow precipitate with iodine and alkali?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Acetophenone  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2-Hydroxypropane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Methyl acetate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Acetamide </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Chloroamphenicol is an: </description>
+		            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> antibiotic - broad spectrum </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> pestiside </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>antifertility drug </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> antistress drug </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The number of carbon atoms per unit cell of diamond unit cell is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>10</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Maximum deviation from ideal gas is expected from:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> H2(g) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NH3(g) </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>N2(g)  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH4 (g)  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>Dipole-induced dipole interactions are present in which of the following pairs:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2O and alcohol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Cl2 and CCl4   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HCl and He atoms  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> SiF4  and He atoms  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Roasting of sulphides gives the gas X as a byproduct. 
+					This is colorless gas with choking smell  of  burnt  sulphur and causes great damage to respiratory organs as a result of acid rain. 
+					Its aqueous solution is acidic, acts as a reducing agent and its acid has never been isolated. The gas X is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>SO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> H2S   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>SO2 </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which is the strongest acid in the following? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2SO4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>HClO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HCl</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>HClO4 </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following is paramagnetic?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NO+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> CO   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CN–  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>O2–  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following structure is similar to graphite?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>B2H6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> B4C  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>B</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BN</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The basic structural unit of silicates is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>SiO–</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> SiO32–  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> SiO42–  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>SiO44–  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following does not give oxygen on heating?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>KClO3      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Zn(ClO3)2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> K2Cr2O7  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(NH4)2Cr2O7   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+					
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following lanthanoid ions is diamagnetic?(At. No. Ce = 58, Sm = 62, Eu = 63, Yb = 70) </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Yb2+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ce2+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sm2+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Eu2+</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>XeF2 is isostructural with- </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description> TeF2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> SbCl3    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ICl2– </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>BaCl2  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>An excess of AgNO3 is added to 100 mL of a 0.01 M solution of dichlorotetraaquachrominum (III) chloride. 
+					The number of moles of AgCl precipitated would  be  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 0.002  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 0.001</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 0.004   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 0.01</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of these is least likely to act as a Lewis base? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> BF3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> PF3   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CO   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> F– </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following is electron-deficient ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   (CH3)2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   (BH3)2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> PH3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(SiH3)2 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following compounds will exhibit cis-trans isomerism? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2-butene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2-butyne </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2-butanol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> butanal </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>The number of isomers of C6H14 is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description>6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>7 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The isomers which can be inter converted through rotation around a single bond are:    </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>	positional isomers</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  conformers</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>enantiomers  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> diastereomers</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>An isomer of ethanol is:  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>dimethyl ether</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>methanol   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> dimethyl ether  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Salisyladehyde </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The types of bonds present in CuSO4.5H2O are only:   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> electrovalent and covalent</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>electrovalent, covalent  and coordinate covalent</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> electrovalent and coordinate covalent   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>covalent  and coordinate covalent </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Which of the following contains both polar and non-polar bonds?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NH4Cl   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>H2O2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> HCN  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH4</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The number and type of bonds between two carbon atoms in CaC2 are: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> one σ and two π bonds</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> one σ and one π bonds  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>one σ bond</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>one σ and one and half  π bonds</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one of the following molecule contains both ionic and covalent bonds? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	CH2Cl2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>	 BeCl2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  K2SO4 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	 SO2</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Element 'X' is strongly electropositive and element 'Y' is strongly electronegative. Both are univalent. The compound formed will be:  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	X->Y   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Y+X- </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>X+Y- </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> X-Y </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The bond between two identical non metal atoms has a pair of electrons. The correct statement about this pair is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Unequally shared between the two</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Equally shared between the atoms.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Transferred fully from one atom to another</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Has identical spins. </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The bonds present in N2O5 are: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>only ionic </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> covalent and coordinate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>only covalent</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Molecule does not exist</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Molecular formula of Glauber's salt is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> FeSO4.7H2O </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na2SO4.10H2O</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CuSO4.5H2O</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>MgSO4.7H2O</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>Among the following, which is least acidic?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>o-cresol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>p-nitrophenol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Phenol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                        <description> p-chlorophenol</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>An organic compound A containing C, H and O has a pleasant odour with boiling point of 78°C. 
+					On boiling A with concentrated H2SO4, a colourless gas is produced gas is produced which decolourises bromine water and alkaline KMnO4. 
+					The organic liquid A is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H5COOCH3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H5OH </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C2H5Cl       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H6</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> An oxygen containing organic compound upon oxidation forms a carboxylic acid as the only organic product with its molecular mass higher by 14 units. 
+					The organic compound is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a primary alcohol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a ketone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> a secondary alcohol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>an aldehyde</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Anisole can be prepared by the action of methyl iodide on sodium phenate. The reaction is called</description>
+				    <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Williamson’s reaction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	Fittig’s reaction </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Wurtz’s reaction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Etard’s reaction </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Chloro ethane reacts with X to form diethyl ether. What is X </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NaOH</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> H2SO4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H5ONa </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na2S2O3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following acids does not exhibit optical isomerism</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Lactic acid</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Maleic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Tartaric acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>α-amino acids</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>CH3CHO and C6H5CH2CHO can be distinguished chemically by:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Tollen's reagent test </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Fehling solution test  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Iodoform test </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Benedict test </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The correct order of decreasing acid strength of trichloroacetic acid (A), trifluoroacetic acid (B), acetic acid (C) and formic acid (D) is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>A > B > C > D</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>A > C > B > D</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>B > D > C > A</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>B > A > D > C</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following reactions will not result in the formation of carbon-carbon bond?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Reimer-Tieman reaction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>Friedel Crafts acylation </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Wurtz reaction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cannizzaro reaction</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> One mole of a symmetrical alkane on ozonolysis gives two moles of an aldehyde having molecular mass of 44u. The alkene is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Propene    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1-butene  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2-butene</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>One mole of an organic compound 'A' with the formula C3H8O reacts completely with two moles of HI to form X and Y. When 'Y' is boiled with aqueous alkali it forms Z. 
+					Z answers the iodoform test. The compound 'A' is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Propan-1-ol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Propan-2-ol   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ethoxyethane  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>methoxyethane </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The correct sequence of steps involved in the mechanism of Cannizzaro's reaction is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>transfer of H+, nucleophilic attack and transfer of H-</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> electrophilic attack by OH-, transfer of H+ and transfer of H-  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>transfer of H-, transfer of H+ and nucleophilic attack </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>nucleophilic attack, transfer of H- and transfer of H+</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The compound obtained when acetaldehyde reacts with dilute aqueous sodium hydroxide exhibits:  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>geometrical isomerism     </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> both optical and geometrical isomerism         </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> neither optical nor geometrical isomerism </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>optical isomerism   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Benzaldehyde and acetone can be best distinguished using:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Tollen's reagent</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>hydrazine </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sodium hydroxide solution </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2, 4-DNP</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>The compound formed as a result of oxidation of ethyl benzene by KMnO4 is:</description>
+					<explanation></explanation>
+					<answer>
+					<enabled>true</enabled>
+					<isright>false</isright>
+					<position></position>
+					<keyboard_key></keyboard_key>
+	                <description>Benzyl alcohol  </description>
+					<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> Acetophenone   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Benzoic acid  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzyl alcohol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which of the following is correct? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Any aldehyde gives secondary alcohol on reduction</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>C2H5OH, iodine with NaOH gives iodoform </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sucrose on reaction with NaCl give invert sugar  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Reaction of vegetable oil with H2SO4 gives glycerin</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> A mixture of benzaldehyde and formaldehyde on heating with aqueous NaOH solution gives: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> benzyl alcohol and sodium formate </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sodium benzoate and methyl alcohol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sodium benzoate and sodium formate </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>benzyl alcohol and methyl alcohol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+	
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following has most acidic hydrogen? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3-Hexanone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2,4-Hexanedione</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2,5-Hexanedione</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2,3-Hexanedione</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The hydrocarbon which can react with sodium in liquid ammonia is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CH=CHCH3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CH3CH2C≡CH</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CH2CH2C≡CCH2CH2CH3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CH3CH2C≡CCH2CH3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				</subject>
+		</module></body></tcexamquestions>

@@ -1,0 +1,4308 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="11.4.002">
+	<header lang="en" date="2013-01-19 14:30:44">
+	</header>
+	<body>
+		<module>
+			<name>SCIENCE OLYMPAID 2016-17</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>CHEMISTRY Class-XI</name>
+				<description>MCQ</description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Lithium forms body centred cubic structure. The length of the side of its unit cell is 351 pm.  Atomic radius   of the lithium will be :</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>152 pm</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>142 pm </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>149 pm  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>133 pm</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>The molecule having smallest bond angle is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                    <description>AsCl3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> NCl3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> SbCl3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>PCl3 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	Which of the following compounds can be detected by Molisch’s test     </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>	Nitro compounds</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Sugars</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Amines </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Primary Alcohols</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	The major product obtained on interaction of phenol with sodium hydroxide and carbon dioxide is  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>salicylic acid</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Benzoic acid   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Pthalic acid  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Salisyladehyde </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	The half life period of a first order chemical reaction is 6.93 minutes. The time required for the completion of 99% of the chemical reaction will be (log 2=0.301)  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 460.6 minutes</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>46.06 minutes</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 23.06 minutes </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>230.6 minutes </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>	Copper crystallizes in fcc with a unit cell length of 361 pm. What is the radius of copper atom  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>138 pm  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>127 pm </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 152 pm  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 137 pm</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	The organic chloro compound, which shows complete stereochemical inversion during a SN2 reaction, is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  CH3Cl</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> (C2H5)2CHCl </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(CH3)3CCl</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>(CH3)2CHCl</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	Identify the wrong statements in the following </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	Chlorofluorocarbons are responsible for ozone layer depletion </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>	Greenhouse effect is responsible for global warming</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	Ozone layer does not permit infrared radiation from the sun to reach the earth </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	Acid rains is mostly because of oxides of nitrogen and sulphur</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	Phenol, when it first reacts with concentrated sulphuric acid and then with concentrated nitric acid, gives </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	2,4,6-trinitrobenzene  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>P-nitrophenol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>o-nitrophenol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> nitrobenzene </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	Consider the ground state of Cr atom (Z = 24). The number of electrons with the azimuthal quantum numbers I =1 and 2 are respectively:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>12 and 4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>12 and 5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>16 and 5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>16 and 4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Which one the following ions has the highest value of ionic radius? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>B3+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> O2-</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>F-</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Li+ </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which one the following sets of ions represents the collection of isoelectronic species? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na+, Mg2+, Al3+, Cl-  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>K+, Ca2+, Sc3+, Cl-</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> K+, Cl-, Mg2+, Sc3+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Na+, Ca2+, Sc3+, F-</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description> 	The species which can best serve as an initiator for the cationic polymerization is   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>AlCl3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>LiAlH4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  HNO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                                                <description> SiO2</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 	Which of the following on thermal decomposition yields a basic as well as an acidic oxide   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>NaNO3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CaCO3 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NH4NO3        </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> KClO3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  	The compressibility factor for a real gas at high pressure is  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1 + pb/RT  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1–pb/RT </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1 + RT/pb </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 	Aspirin is known as  </description>
+
+				            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Acetyl salicylic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 	Acetyl salicylate </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Methyl Phenol</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>	How many chiral compounds are possible on monochlorination of 2–methyl butane ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>4 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Very pure hydrogen (99.9%) can be made by which of the following processes?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Reaction of methane with steam </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Electrolysis of water </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Mixing natural hydrocarbons of high molecular  weight </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Reaction of salt like hydrides with  water  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                    <description>For a first order reaction, (A) --> products, the concentration of A changes from 0.1 M to 0.025 M in 40 minutes. The rate of reaction when the concentration of A is 0.01 M is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1.73 x 10–5  M/ min  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  3.47 x 10–5 M/min  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3.47 x 10–4  M/min </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1.73 x 10–4  M/min </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Iron exhibits +2 and +3 oxidation states. Which of the following statements about iron is incorrect?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ferrous compounds are relatively more ionic than the corresponding ferric compounds</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>Ferrous oxide is more basic in nature than the ferric  oxide.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ferrous compounds are less volatile than the corresponding ferric compounds.</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ferrous compounds are more easily hydrolysed than the corresponding ferric compounds</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Which branched chain isomer of the hydrocarbon with molecular mass 72u gives only one isomer of mono substituted alky halide ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Isohexane</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description>Tertiary butyl chloride </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Neohexane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Neopentane</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> What is DDT among the following:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Fertilizer</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Biodegradable pollutant    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Green House Gas  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Non–biodegradable pollutant</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The increasing order of the ionic radii of the given isoelectronic species is:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>K+, S2–, Ca2+, Cl–   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> S2–, Cl–, Ca2+, K+   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Cl–, Ca2+, K+, S2–  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ca2+, K+, Cl–, S2–   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>2–Hexyne gives trans–2–Hexene on treatment with:</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Pt/H2   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			            <description> Pd/BaSO4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> LiAlH4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Li/NH3</description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Who is regarded as father of modern chemistry ?  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Rutherford        </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> Einestein           </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> C V Raman  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Lavoisier   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which acid is present in lemon ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>citric acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Maleic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Acetic acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Pthalic acid</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                        <description> The term PVC used in the plastic industry stands for </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                                        <description>polyvinyl carbonate  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> phosphavinyl chloride    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> polyvinyl chloride  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+				<description>Poly vinyl carbide  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Oil of vitriol is   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitric acid   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> sulphuric acid</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Boric acid   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Phosphoric acid</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>  Which is used in preparation of dynamite ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> glycerol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> glycol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> methyl alcohol  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ethyl alcohol </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description> What is Calcium sulphate ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   epsum salt</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   gypsum salt</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> blue vitriol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>potash alum </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description> Which metal is heaviest ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Osmium  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Mercury </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Iron </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nickel</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> What is a mixture of potassium nitrate powdered charcoal and sulphur called?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Gun Powder</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> aluminium </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> paint</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Brass</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>Nail polish remover contains ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> petrolium ether </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Acetone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The isotope atoms differ in ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> number of protons  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Avogadro number</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> number of electrons </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Atomic weight </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description> Human bone does not contain</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>calcium</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>oxygen</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>carbon</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Phosphorous </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description> Washing soda is ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Potassium carbonate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Sodium carbonate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sodium bicarbonate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sodium chloride </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Natural rubber is a polymer derived from ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Butene  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>isoprene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> isopropyle</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Pentene  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description> pH of blood is ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>7.4</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5.9</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  6.7 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                                                <description> 2.3</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which have the maximum density ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ice</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Water</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Benzene      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Chloroform</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  The oxide of Nitrogen used in medicine as anaesthetic is ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitrogen pentoxide  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitric oxide </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitrogen dioxide </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitrous oxide </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the primary component of natural gas?  </description>
+
+				            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> methane</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Ethane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Butane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+		<description> Propane </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Which gas is used in fire extinguishers ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>oxygen </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> sulphur dioxide</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>carbon dioxide </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			<description>Nitrogen dioxide</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description> The metallurgical process in which a metal is obtained in a fused state is called ?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>froth floatation</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> smelting </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>roasting  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> calcination </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                       <description> Which of the following is produced during the formation of photochemical smog ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Hydrocarbon  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Nitrogen oxide   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ozone  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>methane  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The nuclear particles which are assumed to hold the nucleons together are ?  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>neutrons</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> electrons  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>positrons </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>mesons </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The metal that is used as a catalyst in the hydrogenation of oils is ?  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Pt  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> Pd  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cu </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ni   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The luster of a metal is due to  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>high polishing</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> high density    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>chemical inertness </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>presence of free electrons    </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  The most malleable metal is  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>silver  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> cupper   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Iron </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>gold  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Iodine can be separated from a mixture of Iodine and Potassium Chloride by ?   </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sedimentation    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> filteration  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Distillation </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sublimation     </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Conduction band electrons have more mobility than holes because they are   </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>experience collision more frequently       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> need less energy to move them           </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> have negative charge  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>experience collision less frequently   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Due to rusting the weight of iron </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Increases  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Decreases </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Remains same  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Uncertain</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                        <description> The most electropositive elements among the following is  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                                        <description> Ca  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> Na   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Cs  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+				<description>Br </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The gas used for artificial ripening of green fruit is ?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Acetylene   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Ethylene</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Carbondioxide   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Ethane</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description> The high reactivity of fluorine is due to ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> its high electro negativity </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Its small size  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> availability of d-orbitals   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> strong F-F bond</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Alloys made with mercury as one metal are called ?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  emulsions</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   Amalgams</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> mixture </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>solder </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>  What is hottest part of the gas flame is called ?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>luminous zone </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> non-luminous zone</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Dark Zone  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Blue Zone</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Faraday's Law is associated with </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Electrolysis </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Temperature and pressure </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Reaction of gases</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Pressure of gases</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>Permanent hardness of water is due to the presence of ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> calcium bicaronate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>magnesium bicarbonate</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Calcium sulphate </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The acid generally stored in batteries is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Nitric acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Hydrochloric acid</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Sulphuric acid </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Boric acid </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>The ejection of electrons when a metal surface is irradiated is known as </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Black body radiation</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Photoelectric effect</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Zeeman effect</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>atomic spectrum </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description> Which of the following elements behave chemically both as a metal and a non metal?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Carbon </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Boron</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Mercury</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Argon</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Brass is an alloy of ? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Copper and Tin  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Copper and Zinc </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Copper and Alluminium</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Copper and Iron </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description>  Which gas is filled in refrigerators ?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Chlorofluorocarbon</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Methane</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Chlorine </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                                                <description> Butane</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The major component used in preparation of different types of glasses is : </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Alluminium</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Silica</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Calcium silicate        </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Sodium silicate</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Find the number of atoms in a cubic based unit cell having one atom on each corner and two atoms on each diagonal. </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 9 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 7 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 13 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Calculate the radius of the anion B, if the radius of the cation A is 100pm. The solid AB has NaCl structure. </description>
+
+				            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  241 pm </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  240 pm   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 340 pm  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+		<description>  141 pm  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Calculate the density of an iron atom having rock like structure and effective radius of 1.42Å. (Fe = 56 amu) </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 9.14 g cm-1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3.01 kg m-1 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 5.74 g cm-1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			<description>3.01 g cm-1</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>Find the order of the reaction, if the rate of a gaseous reaction is halved when the volume of the vessel is doubled. </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> zero </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> One </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Two  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Three </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                       <description>The role of catalyst in a chemical reaction is to change: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Equilibrium constant.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Heat of reaction   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Activation Energy  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Products of reaction  </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>In a photochemical reaction the free energy change is:  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Always Positive</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> Always Negative  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Always Zero</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Can be positive or negative.  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+		
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> For first order reaction, the graph between rate of reaction vs concentration is: </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Non Linear </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> Curve Linear    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Curved  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Linear    </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> State function is a property which depends upon:   </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Initial State of system  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> final state of system   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Path of a system</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Only initial and final states of system and not upon the path followed    </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Hess’s law of constant heat summation states that:   </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>ΔH is a path function.    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> None  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Change in enthalpy remains the same depending upon the path used.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>ΔH is a state function.  </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following is not a volatile substance?   </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Camphor   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description> Acetone </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Petrol </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Acetanilide    </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following characteristics is not possessed by an ideal solution:  </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>obeys Raoult’s law.        </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			                        <description>there should be no chemical reaction between solute and solvent.           </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> only very dilute solutions behave as ideal solutions. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>volume change on mixing is not equal to zero.   </description> 
+						<explanation></explanation>
+					</answer>
+				</question>
+				
+				
+				
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>The value of Vant Hoff factor (i) = 2 is for: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>sodium chloride.   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>calcium chloride</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Glucose</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Sucrose</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                        <description> How many valence electrons does an oxygen atom have? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+	                                        <description> 4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> 8   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+				<description>16 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Which of the following represents the correct formula for aluminum oxide? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> AlO3   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Al2O3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Al2O  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>AlO</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Which of the following electron configurations represents the electron configuration for a magnesium cation...Mg2+?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p63s2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p63s23p2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1s22s22p4</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description> Bohr’s model of atom was based upon: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Electromagnetic wave theory. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Planck’s quantum theory </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Rutherford theory </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description> Which among the following is an example of an object possessing the character of both wave and particle? </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>piece of chalk </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> All of these.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> piece of iron  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> molecules</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Heisenberg’s uncertainly principle is of great significance for: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Only microscopic particles.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  Only macroscopic particles.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>All the particles. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>The branch of science based upon Newton’s laws of motion is called as: 
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Quantum mechanics. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Wave mechanics. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Cassical mechanics.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Degenerate orbitals are the orbitas of the:  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Same subshell having different energy.   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Different subshell having different energy.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Same subshell having equal energy.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>………….. among the following has maximum number of unpaired electrons. </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Ni3+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Fe2+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Cu+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Zn </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>The atomic number of nitrogen and oxygen is 7 and 8 respectively. Calculate the total number of electrons in a nitrate ion. 
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 31 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 32 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>23</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>38</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>Calculate the number of unpaired electrons present in the ground state of Fe3+. (At.no of Fe =26) </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>8  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>3 </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+		
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+				<description> The numerical value of Planck’s constant is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6.6 x 10-34 J sec. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>6.6 x 10-38 J sec. </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6.6 x 10-64 J sec.  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+                                                <description> 6.6 x 10-54 J sec. </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> De-Broglie equation applies to: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>electrons only</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>All the material objects in motion </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Protons only      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>neutrons only</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> ………….. has sp2 hybridization. </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> SO2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>CO2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NO2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CO </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The ion that is isoelectronic with CO is:  </description>
+
+				            <explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> CN- </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> N-  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>O2+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+		<description> O2- </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+<description>Which among the following is paramagnetic? </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>O2- </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> NO </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>All of these </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+			<description>N2- </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+	<description>In which of the following C-H bond will be smallest? </description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Ethylene </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Acetylene </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>methane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> ethane </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+			
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+                                       <description>Which of the following have maximum boiling point?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>isohexane </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> isopentane  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>n-hexane  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> n-pentane </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+				</subject>
+		</module></body></tcexamquestions>

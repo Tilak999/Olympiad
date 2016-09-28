@@ -1,14 +1,30 @@
+<style>
+    h5{
+        text-align: center;
+        color: #6b6b6b;
+        padding-bottom: 10px;
+    }
+
+    .a-link
+    {
+        display:block;
+        padding-top:30px;
+        color: rgb(138, 138, 138);
+    }
+</style>
+
 <div class="page">
     <div class="logo" ng-click="about()">
-        <img src="img/home-logo.png" width="100%">
+        <img src="img/large-logo.png" width="100%">
     </div>
+
+    <h5>Login or Register</h5>
     
     <div class="menu">
-        <div ng-click="notification()" class="item button" style="background-color:#62DE9B">Notification</div>
-        <div ng-click="result()" class="item button" style="background-color:#FF1495">Result</div>
-        <div ng-click="syllabus()" class="item button" style="background-color:#F36B42">Syllabus</div>
-        <div ng-click="test()" class="item button" style="background-color:#FFB814">Start Practice Test</div>
-        <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Register Now!</div>
+        <div ng-click="login()" class="item button" style="background-color:#62DE9B">Login</div>
+        <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Registration</div>
+
+        <center><a class="a-link" href="#">Know about CDGI Science Olympiad</a></center>
         <br><br><br><br>
     </div>
 

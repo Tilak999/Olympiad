@@ -1,0 +1,3305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tcexamquestions version="11.4.002">
+	<header lang="en" date="2013-01-19 14:30:44">
+	</header>
+	<body>
+		<module>
+			<name>Science Olympiad</name>
+			<enabled>true</enabled>
+			<subject>
+				<name>Mathematics - XI</name>
+				<description>Basic </description>
+				<enabled>true</enabled>
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> [tex]    cos3\alpha [/tex] </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 3sin\alpha-4sin^{3}\alpha [/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 4sin\alpha-3sin^{3}\alpha [/tex]     </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3cos\alpha-4cos^{3}\alpha</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>[tex] \cos(-435^{\circ})= [/tex]</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \cos15^{\circ} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]  \sin15^{\circ} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  -\sin15^{\circ} [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> if [tex]  \tan\theta lessthan 0   \sin\theta lessthan 0    [/tex] then terminal arm of angle lies in quadrant </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 2  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 1</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+		</question>
+			<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  [tex]  \cos(\pi+\alpha)= [/tex]   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \cos\alpha  [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  -\cos\alpha [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  \sin\alpha [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>[tex] \sin(A+45^{\circ})\sin(A-45^{\circ}) [/tex] </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] (1/2)\cos2A    [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] -(1/2)\cos2A   [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] -(1/2)\sin2A  [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> [tex] \sin(-625^{\circ}) [/tex]
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] -\cos5^{\circ} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \sin5^{\circ} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \cos5^{\circ} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> [tex] \sin5\theta\cos2\theta= [/tex] </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  [tex] (1/2)(\sin7\theta+\sin3\theta) [/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \sin7\theta+\sin3\theta [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \sin7\theta-\sin3\theta [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  [tex] \sec(\alpha-90^{\circ})= [/tex]  
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    cosec\alpha [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    -cosec\alpha [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] sec\alpha [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 576
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  540  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>756 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>564</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>720</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>645</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>209 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>205 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>210 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 10 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 20 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 30
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 36
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>60
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> . Number of observations are 30 and value of arithmetic mean is 15 then sum of all values is 
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>15 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>200  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>450</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Arithmetic mean is 25 and all sum of observations is 350 then number of observations are </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>70</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>14</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>15</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Arithmetic mean is multiplied to coefficient of mean absolute deviation to calculate the
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> relative mean deviation
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> absolute mean deviation
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> relative median deviation
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]none of these[/tex] </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Considering probability distribution, if mode is greater than median then distribution is classified as
+  
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> variable model
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> right skewed
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> constant model
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Kind of triangle which has two equal sides is
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] equilateral triangle
+ [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] scalene triangle
+ [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] isosceles triangle
+ [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> A plane which is formed by three straight edges as its sides is called</description>
+
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> triangle
+   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> pentagon
+  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> hexagon
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these   </description>
+						<explanation></explanation>
+					</answer>
+				</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Right-angled triangle must have</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> one right angle</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> two right angles</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> four right angles</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  Median of 7, 6, 4, 8, 2, 5, 11 is
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>12  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 6</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these
+</description>
+						<explanation></explanation>
+					</answer>
+</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Number which occurs most frequently in a set of numbers is
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> mean
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> median
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> mode               </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If mean of 6 numbers is 41 then sum of these numbers is
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>200 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description></description>
+						<explanation>246</explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 134</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The greater of two numbers [tex] 300! [/tex]  and  
+ [tex] \sqrt{300^{300}}    [/tex]is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 100 [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]200 [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 300 [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The number [tex] 101^{100}-1 [/tex] is divisible by
+   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 10
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 9
+   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 8   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these   </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> What are the coordinates of the center of the curve [tex] x^{2}+y^{2}-2x-4y-31=0 [/tex]</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] (-1,-1) [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]  (1,2) [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  (-1,2) [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> What is the radius of a circle with the ff. equation [tex]     x^{2}+y^{2}-6x-4y-12=0 [/tex] 
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3.76  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>5</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Find the area (in square units) of the circle whose equation is [tex]  x^{2}+y^{2}=6x-8y [/tex]   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 20\pi [/tex</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  25\pi [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]  30\pi [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these
+ </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> A parabola has its focus at (7, -4) and directrix y = 2. Find its equation.
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] x^{2}+12y+14x+61=0 [/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] x^{2}+12y-14x+61=0 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] x^{2}-12y-14x+61=0 [/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Given a parabola [tex] (y-2)^{2}=8(x-1) [/tex] What is the equation of its directrix
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] x=-3 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] y=3 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] x=3 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The general equation of a conic section is given by the following equation [tex] Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0 [/tex] A curve maybe identified as an ellipse by which of the following conditions </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  [tex] B^{2}-4AC Lessthan 0 [/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] B^{2}-4AC>0 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] B^{2}-4AC=0 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  How many diagonals can be drawn in a pentagon  
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    5 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    10 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 6[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> find the mode of the data1,2,5,3,2,3,0,5,2</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 3
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  4  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> coefficient of range 5 , 2 , 3,  4,  6,  8 , 10 is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>2/3</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>1/2</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> None of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> variance of first 20 natural number is </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>133/4 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>379/12 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>133/2 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  In a triangle ABC if [tex]    tanA lessthan 0 [/tex] then</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    tanB.tanC>1 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    tanB.tanC=1 [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]    tanB.tanC lessthan 1 [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright> false </isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>None of these </description>
+						<explanation></explanation>
+					</answer>
+</question>
+
+				<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5? 
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 1/2[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 2/5 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> 
+[tex]9/5 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>
+
+A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue? 
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]2/3[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]5/3[/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]1/3[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+What is the probability of getting a sum 9 from two throws of a dice?
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]1/6[/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   [tex]1/8[/tex]       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> >[tex]1/16[/tex]       </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> >[tex]1/9[/tex]     </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Three unbiased coins are tossed. What is the probability of getting at most two heads?  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]1/8[/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Jacobi </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]7/8[/tex]      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> [tex]3/8[/tex]    </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>
+
+A right triangle with sides 3 cm, 4 cm and 5 cm is rotated the side of 3 cm to form a cone. The volume of the cone so formed is:
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 15\pi cm^{3} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 13\pi cm^{3} [/tex]	 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 12\pi cm^{3} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>[tex] 16\pi cm^{3} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  
+
+In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 150m^{3} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 750m^{3} [/tex]	   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[ tex] 250m^{3} [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> tex] 1300m^{3} [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is: </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 4\sqrt{3} [/tex] unit </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 4\sqrt{5} [/tex] unit </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> none of these	 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description> data insufficient </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+The angle of elevation of a ladder leaning against a wall is 60º and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is: 
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]2.3m[/tex]	</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>   [tex]9.2m[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  [tex]7.3m[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+					<description>  [tex]5.3m[/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  
+
+An observer 1.6 m tall is [tex]20\sqrt{3}[/tex] away from a tower. The angle of elevation from his eye to the top of the tower is 30 degree. The heights of the tower is: 
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>  [tex] 30.6 m[/tex]     </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 27.6 m[/tex]      </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 21.6 m[/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 21.8 m[/tex]    </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> From a point P on a level ground, the angle of elevation of the top tower is 30 degree. If the tower is 100 m high, the distance of point P from the foot of the tower is:  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 173 m [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 1173 m [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>0 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  
+
+The angle of elevation of the sun, when the length of the shadow of a tree [tex] \sqrt{3} [/tex] times the height of the tree, is: 
+
+
+
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 60^{0}[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 30^{0}[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 90^{0}[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>
+
+From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done? 
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]456[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]560 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]756[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]156[/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>
+
+In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 320[/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 520 [/tex]
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]720 [/tex]
+ </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 920 [/tex]
+</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>
+
+In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 5760 [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]3145[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]50400[/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of these </description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]1458 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 25201 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 25200[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  
+
+In how many ways can the letters of the word 'LEADER' be arranged? 
+
+</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 144[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 360[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 120 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?
+
+ </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 209 [/tex]  </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[ tex] 219 [/tex]     </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 102 [/tex]   </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If the probability that an indivisual suffers a bad reaction from a certain injection is 0.001,then the probability that out of 2000 indivisuals exactly 3 will suffer a bad reaction is</description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{4}{3e^{2}} [/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{2}{3e^{2}} [/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{2}{e^{2}} [/tex]    </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated? 
+
+   </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]20[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex]50[/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>99.7 </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>99</description>
+						<explanation></explanation>
+					</answer>
+				
+</question>
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women? 
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 11762 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 117656[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 266 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 11760 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>	
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> 
+
+In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?
+
+
+ 
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 62 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 56[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]66 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 36 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> An angle in standard position whose measure is -30° has a its terminal side in
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant II </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant III</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant I </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant IV </description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> In which quadrant is the terminal of an angle in standard position whose measure is 2π/3?
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant IV </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> Quadrant I</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant III </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant II </description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> An angle in standard position whose measure is 1330° has a its terminal side in
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant IV </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant I</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant II </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Quadrant III </description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>	
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> resolve in to partial ftaction[tex] \frac{1}{(x+4)(x+6)}[/tex]
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex]  \frac{1}{3(x+4)}-\frac{1}{2(x+6)} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{1}{2(x+6)}-\frac{1}{2(x+6)} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{1}{2(x+4)}-\frac{1}{3(x+6)} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{1}{2(x+4)}-\frac{1}{2(x+6)} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> resolve in to partial fractions[tex]\frac{x+3}{(x+2)(x^{2}-9)}[/tex]
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{-1}{4(x+2)}+\frac{1}{5(x-3)} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] \frac{-1}{5(x+3)}+\frac{1}{5(x-3)} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{-1}{5(x+2)}+\frac{1}{5(x-4)} [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \frac{-1}{5(x+2)}+\frac{1}{5(x-3)} [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description>  The number of elements in the Power set P(S) of the set [tex]S = [ [ Φ] , 1, [ 2, 3 ]][/tex] is
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 2 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 6[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 3 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 8 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If X and Y are two sets, then [tex]X  ∩ (Y  ∪ X) C[/tex] equals
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>X </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Y</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>Z </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] \phi [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If [tex] f : X -> Y[/tex] and [tex]a, b  ⊆ X, then f (a  ∩ b)[/tex] is equal to
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] f(b) +f(a) [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] f(b) - f(a) [/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] f(a) ∩ f(b) [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>a proper subset [tex]  of f(a) ∩ f(b) [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If [tex]x = b + c, y = c a, z = a b[/tex] then
+[tex]x2 + y2 + z2 - 2xy - 2xz + 2yz [/tex]is equal to
+
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] none of these [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] a+b+c[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 5b2 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 4b2 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> An Egyptian fraction has a numerator equal to 1, and its denominator is a positive integer. What is the maximum number of different Egyptian fraction such that their sum is equal to 1, and their denominators are equal to 10 or less?
+
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 2 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> [tex] 6[/tex]</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 4 [/tex] </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>[tex] 3 [/tex]</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> The set of all real numbers under the usual multiplication operation is not a group since
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of below </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> multiplication is not associative </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> identity element does not exist </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description> zero has no inverse </description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>		
+<question>
+					<enabled>true</enabled>
+					<type>single</type>
+					<difficulty>1</difficulty>
+					<position></position>
+					<timer>0</timer>
+					<fullscreen>false</fullscreen>
+					<inline_answers>false</inline_answers>
+					<auto_next>true</auto_next>
+					<description> If (G, .) is a group such that[tex] a2 = e,  ∀a ∈ G[/tex] then G is
+
+
+
+
+  </description>
+					<explanation></explanation>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>none of below </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>semi group</description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>false</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>non-abelian group </description>
+						<explanation></explanation>
+					</answer>
+					<answer>
+						<enabled>true</enabled>
+						<isright>true</isright>
+						<position></position>
+						<keyboard_key></keyboard_key>
+						<description>abelian group</description>
+						<explanation></explanation>
+					</answer>
+				
+				
+</question>	
+		
+</subject>
+</module>
+</body>
+</tcexamquestions>
+
+

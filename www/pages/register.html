@@ -3,63 +3,200 @@
     <div class="panel register-panel" ng-controller="register">
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <input class="mdl-textfield__input" type="text" ng-model="name">
+            <input class="mdl-textfield__input" type="text" ng-model="data.name">
             <label class="mdl-textfield__label">Full Name</label>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <input class="mdl-textfield__input" type="text" ng-model="father">
+            <input class="mdl-textfield__input" type="text" ng-model="data.father">
             <label class="mdl-textfield__label">Father's Name</label>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="mobile">
+            <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="data.mobile">
             <label class="mdl-textfield__label">Mobile</label>
             <span class="mdl-textfield__error">Input is not a mobile number!</span>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <input class="mdl-textfield__input" type="email" ng-model="email">
+            <input class="mdl-textfield__input" type="email" ng-model="data.email">
             <label class="mdl-textfield__label">E-mail</label>
             <span class="mdl-textfield__error">Invalid E-mail id.</span>
         </div>
 
+        <div class="mdl-radio">
+            <div>Standard</div>
+            <input type="radio" name="standard" ng-model="data.standard" value="11"/>
+            <label>XI</label>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="radio" name="standard" ng-model="data.standard" value="12"/>
+            <label>XII</label>
+        </div>
+
         <div class="mdl-dropdown">
             <div>Academic Session</div>
-            <select ng-model="session">
-                <option>2015-16</option>
-                <option>2016-17</option>
+            <select ng-model="data.session">
+                <option value="2016-17">2016-17</option>
             </select>
         </div>
 
         <div class="mdl-dropdown">
             <div>Board</div>
-            <select ng-model="board">
-                <option>CBSE</option>
-                <option>ICSE</option>
-                <option>MP Board</option>
+            <select ng-model="data.board">
+                <option value="CB">CBSE</option>
+                <option value="IC">ICSE</option>
+                <option value="MP">MP Board</option>
             </select>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <input class="mdl-textfield__input" type="text" ng-model="scholar">
+            <input class="mdl-textfield__input" type="text" ng-model="data.scholar">
             <label class="mdl-textfield__label">Scholar No</label>
         </div>
 
         <div class="mdl-dropdown">
             <div>Your School</div>
-            <select ng-model="school">
-                <option>National Public School</option>
-                <option>Advanced Academy</option>
-                <option>St Arnolds School</option>
-                <option>Choithram School Indore</option>
-                <option>Delhi Public School</option>
-                <option>The Emerald Heights International School</option>
+            <select ng-model="data.school">
+                <option ng-repeat="school in school_list" value="{{school.id}}">{{school.school}}</option>
             </select>
         </div>
 
-        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit()">
-            Submit
-        </button>
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+            <textarea class="mdl-textfield__input" type="text" ng-model="data.address">
+            </textarea>
+            <label class="mdl-textfield__label">Address</label>
+        </div>
+        
+        <div>
+            <button ng-click="submit()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
+                Submit
+            </button>
+        </div>
+       
+
+        <div class="popup">
+            <div class="content">
+                <div class="body">
+
+                    <div class="loading">
+                        <center>
+                        <br><br>
+                        <div class="mdl-spinner mdl-js-spinner is-active"></div>
+                        <h6>Please, wait..</h6>
+                        </center>
+                    </div>
+
+                    <div class="success hide">
+                        <center>
+                        <h4>Success !!</h4>
+                        <i class="material-icons" style="font-size:90px">done</i>
+                        <p>You have Successfully registered.</p>
+                        <p>
+                            <b>Enrollment No. : {{enroll_id}}</b>
+                            <br>Password is your registered Mobile no.
+                        </p>
+                        <br>
+                        <p>
+                        Tip: Take a screenshot to keep Enrollment no. safe for later use.
+                        </p>
+                        <br><br>
+                        </center>
+                    </div>
+
+                    <div class="already_member hide">
+                        <center>
+                        <h4>Already Registered !!</h4>
+                        <i class="material-icons" style="font-size:90px">info_outline</i>
+                        <br>
+                        <p>You have already Registered.<br>Use Enrollment no. and Mobile no. to login</p>
+                        <br>
+                        <button ng-click="login()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
+                                Login
+                        </button>
+                        <br><br>
+                        </center>
+                    </div>
+
+                    <div class="server_error hide">
+                        <center>
+                        <h4>Error Occured !!</h4>
+                        <i class="material-icons" style="font-size:90px">error_outline</i>
+                        <br>
+                        <p>Unable to process registration.<br>Please try again later.</p>
+                        <br><br>
+                        </center>
+                    </div>
+
+                    <div class="error hide">
+                        <center>
+                        <h4>No Internet !!</h4>
+                        <i class="material-icons" style="font-size:90px">network_check</i>
+                        <br>
+                        <p>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</p>
+                        <br>
+                        <button ng-click="try_again()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+                                Try Again
+                        </button>
+                        <br>
+                        </center>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
     </div>
+
+
+    <!-- popup layout to show terms and condition, to show loader -->
+
+    <style>
+        .popup
+        {
+            position:fixed;
+            top:0; left:0;
+            width:100%;
+            height:100%;
+            background:rgba(0, 0, 0, 0.43);
+        }
+
+        .popup .content
+        {
+            background:#fff;
+            max-width:300px;
+            margin:auto;
+            min-height:150px;
+            margin-top:30%;
+            border: #868686 solid thin;
+            border-radius: 10px;
+        }
+
+        .popup .body
+        {
+            padding:15px;
+        }
+
+        .success h4, .success i
+        {
+            color:#009688;
+        }
+
+        .already_member h4, .already_member i
+        {
+            color:#008eff;
+        }
+
+        .server_error h4, .server_error i
+        {
+            color:#ff746a;
+        }
+
+        .error h4, .error i
+        {
+            color:#848484;
+        }
+    </style>
+
+
 </div>
