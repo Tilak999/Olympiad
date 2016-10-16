@@ -2,11 +2,11 @@
     <div class="header">Practice Test</div>
     <div class="panel">
         
-        <div class="test-type">
+        <div class="test-list">
             <center>
-                <h5>Select test Pattern</h5>
+                <h5>Select Mock Test</h5>
             </center>
-            <div ng-click="pattern()">Start Exam</div>
+            <div ng-repeat="paper in papers" ng-click="mock_test(paper.id)">{{ paper.title }}</div>
         </div>
 
         <div class="info-area">
@@ -14,15 +14,15 @@
                 <div class="spinner">
                     <div class="mdl-spinner mdl-js-spinner is-active"></div>
                 </div>
-                <div class="text">fetching Test Paper</div>
+                <h6>fetching Test Paper</h6>
             </div>
             <div class="error-div hide">
                 <div class="icon">
                     <center><i class="material-icons">error_outline</i></center>
                 </div>
-                <div class="text">
+                <h6>
                     <center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center>
-                </div>
+                </h6>
             </div>
         </div>
 
@@ -31,7 +31,7 @@
             <div class="test-div">
 
                 <div class="timer">
-                    <h3>30:00</h3>
+                    <h3>60:00</h3>
                 </div>
 
                 <table>
@@ -49,13 +49,12 @@
 
                 </table>
 
-                <div class="test_btn_holder">
-                    <div>
-                        <button class="mdl-button mdl-js-button half-btn" ng-click="prev_question()" ng-disabled="prev">Prev</button>
-                        <button class="mdl-button mdl-js-button half-btn" ng-click="next_question()" ng-disabled="next">Next</button>
-                        <button class="mdl-button mdl-js-button full-btn" ng-click="submit_test()">Submit</button>
-                    </div>
+                <div>
+                    <button class="mdl-button mdl-js-button half-btn" ng-click="prev_question()" ng-disabled="prev">Prev</button>
+                    <button class="mdl-button mdl-js-button half-btn" ng-click="next_question()" ng-disabled="next">Next</button>
+                    <button class="mdl-button mdl-js-button full-btn" ng-click="submit_test()">Submit</button>
                 </div>
+                
             </div>
             <div class="result-div hide">
                 <center>
@@ -87,6 +86,7 @@ table
   line-height:25px;
   border-collapse: separate;
   border-spacing: 0 1em;
+  padding-bottom:15px;
 }
 
 .question
@@ -109,12 +109,13 @@ td
 .qsn,.ans
 {
   font-size:18px;
+  font-weight:bolder;
 }
 
 .answer
 {
-  background:gray;
-  color:gray;
+  background:#353535;
+  color:#353535;
 }
 
 .correct
@@ -132,7 +133,7 @@ td
 .answer .ans
 {
   background:#fff;
-  border:gray solid thin;
+  border:#353535 solid thin;
 }
 
 .correct .ans

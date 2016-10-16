@@ -1,0 +1,8 @@
+#!/bin/bash
+rm -r /Users/Tilak/Documents/Olympiad-apk/www
+cp -a /Applications/XAMPP/xamppfiles/htdocs/app/. /Users/Tilak/Documents/Olympiad-apk/www/
+rm -r /Users/Tilak/Documents/Olympiad-apk/www/pdf
+rm -r /Users/Tilak/Documents/Olympiad-apk/www/api
+cd /Users/Tilak/Documents/Olympiad-apk/
+sudo cordova build --release
+/Users/Tilak/Documents/Olympiad-apk/platforms/android/build/outputs/apk/sign 

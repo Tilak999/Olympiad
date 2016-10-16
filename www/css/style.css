@@ -33,10 +33,10 @@
 .menu
 {
 	width: 100%;
-	max-width: 300px;
+	max-width: 280px;
 	margin: auto;
 	margin-top: 10px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .menu .item
@@ -129,8 +129,9 @@
 
 .info-area .loading-div
 {
-    max-width: 140px;
+    max-width: 159px;
     margin: auto;
+    text-align: center;
 }
 
 .info-area .loading-div .spinner
@@ -202,7 +203,7 @@
     background: #e22b2b;
 }
 
-.test-type div
+.test-list div
 {
     border-radius: 50px;
     width: 100%;
@@ -215,20 +216,6 @@
     border: #e66f00 solid thin;
 }
 
-.test_btn_holder
-{
-    width: 100%;
-    position: fixed;
-    bottom: 15px;
-    left: 0px;
-}
-
-.test_btn_holder div
-{
-    width: 309px;
-    margin: auto;
-}
-
 .choices label
 {
     font-size: 18px;
@@ -239,4 +226,9 @@
 {
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.brand p
+{
+    margin:0px;
 }

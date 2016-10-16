@@ -1,5 +1,5 @@
 [
-    {   "question":"some random question 1", 
+    {   "question":"What is the rhino's horn made of ?", 
         "choices": [{
                 "id": 1,
                 "text": "Choice 1"
@@ -13,7 +13,7 @@
         "answer": 1
     },
 
-    {   "question":"some random question 2", 
+    {   "question":"Exposure to sunlight helps a person improve his/her health because…", 
         "choices": [{
                 "id": 1,
                 "text": "Choice 1"
@@ -27,7 +27,7 @@
         "answer": 1
     },
 
-    {   "question":"some random question 3", 
+    {   "question":"What beer is marketed as the king of beers?", 
         "choices": [{
                 "id": 1,
                 "text": "Choice 1"

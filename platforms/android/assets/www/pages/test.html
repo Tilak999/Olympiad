@@ -1,51 +1,62 @@
 <div class="page fadeIn" id="test" ng-controller="test">
     <div class="header">Practice Test</div>
     <div class="panel">
-        <div class="test-type" ng-hide="hideSelector">
+        
+        <div class="test-list">
             <center>
-                <h5>Select test Pattern</h5>
+                <h5>Select Mock Test</h5>
             </center>
-            <div ng-click="pattern('cet')">CET</div>
-            <div ng-click="pattern('jee')">JEE</div>
+            <div ng-repeat="paper in papers" ng-click="mock_test(paper.id)">{{ paper.title }}</div>
         </div>
 
         <div class="info-area">
-            <div class="loading-div" ng-show="loading">
+            <div class="loading-div hide">
                 <div class="spinner">
                     <div class="mdl-spinner mdl-js-spinner is-active"></div>
                 </div>
-                <div class="text">fetching Test Paper</div>
+                <h6>fetching Test Paper</h6>
             </div>
             <div class="error-div hide">
                 <div class="icon">
                     <center><i class="material-icons">error_outline</i></center>
                 </div>
-                <div class="text">
+                <h6>
                     <center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center>
-                </div>
+                </h6>
             </div>
         </div>
 
-        <div class="test-area" ng-hide="!selector_hide || loading ">
-            <div class="test-div" ng-hide="test_hide">
-                <h5>{{Qcount}}) {{question}}</h5>
-                <div class="choices">
-                    <div ng-repeat="choice in choices">
-                        <label><input type="radio" name="options" ng-click="setAns(choice.id)">
-                        {{choice.text}}
-                        </label>
-                    </div>
+        <div class="test-area hide">
+
+            <div class="test-div">
+
+                <div class="timer">
+                    <h3>60:00</h3>
                 </div>
 
-                <div class="test_btn_holder">
-                    <div>
-                        <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="prev_question()" ng-disabled="prev">Previous</button>
-                        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" ng-click="submit_test()">Submit</button>
-                        <button class="mdl-button mdl-js-button mdl-button--raised" ng-click="next_question()" ng-disabled="next">Next</button>
-                    </div>
+                <table>
+                    <tr class="question">
+                        <td class="count">{{Qcount}}</td>
+                        <td class="qsn">{{question}}<div></div></td>
+                    </tr>
+                    
+                    <tr class="space-2x"></tr>
+            
+                    <tr class="answer" ng-class="{correct: choice.id === selected }" ng-click="setAns(choice.id)" ng-repeat="choice in choices">
+                        <td class="count">{{choice.id}}</td>
+                        <td class="ans">{{choice.text}}</td>
+                    </tr>
+
+                </table>
+
+                <div>
+                    <button class="mdl-button mdl-js-button half-btn" ng-click="prev_question()" ng-disabled="prev">Prev</button>
+                    <button class="mdl-button mdl-js-button half-btn" ng-click="next_question()" ng-disabled="next">Next</button>
+                    <button class="mdl-button mdl-js-button full-btn" ng-click="submit_test()">Submit</button>
                 </div>
+                
             </div>
-            <div class="result-div" ng-show="test_hide">
+            <div class="result-div hide">
                 <center>
                     <h4>Your Score</h4>
                     <h1>{{result_score}}</h1><br>
@@ -56,3 +67,121 @@
         </div>
     </div>
 </div>
+
+<style>
+
+.timer h3
+{
+    text-align:center;
+    margin:0px;
+    font-weight:100;
+    color:#5d5d5d;
+}
+
+table
+{
+  padding:3px;
+  width:100%;
+  font-weight:100;
+  line-height:25px;
+  border-collapse: separate;
+  border-spacing: 0 1em;
+  padding-bottom:15px;
+}
+
+.question
+{
+  background:#2196F3;  
+  color:#fff;
+}
+
+td
+{
+  padding:10px 15px 10px 15px;
+}
+
+.count
+{
+  text-align:center;
+  font-size:28px;
+}
+
+.qsn,.ans
+{
+  font-size:18px;
+  font-weight:bolder;
+}
+
+.answer
+{
+  background:#353535;
+  color:#353535;
+}
+
+.correct
+{
+  background:#008542;
+  color:#008542;
+}
+
+.answer .count, .correct .count
+{
+  font-size:18px;
+  color:#fff;
+}
+
+.answer .ans
+{
+  background:#fff;
+  border:#353535 solid thin;
+}
+
+.correct .ans
+{
+    background:#fff;
+    border:#008542 solid thin;
+}
+
+.space-2x
+{
+  height:5px;
+}
+
+.qsn div
+{
+  position:absolute;
+  width:15px; height:15px;
+  background:#000;
+  transform: rotate(45deg);
+  background:#2196F3;
+}
+
+.timer .red
+{
+    color:#e22b2b;
+}
+
+.full-btn
+{
+    width:100%;
+    background: rgb(33,150,243);
+    color:#fff;
+    margin-top:10px;
+}
+
+.full-btn : focus, .full-btn : active
+{
+    background: rgb(33,150,243);
+}
+
+.half-btn
+{
+    width:49.3%;
+    background: #ececec;
+}
+
+.half-btn : focus, .half-btn : active 
+{
+    background: #ececec;
+}
+</style>

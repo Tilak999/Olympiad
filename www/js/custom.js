@@ -1,3 +1,5 @@
+var base_url="http://cdgi.edu.in/olympiad_science/app/";
+
 var app = angular.module('myApp', ['ngCordova', 'ngRoute']);
 
 function goto(url) {
@@ -23,7 +25,7 @@ app.config(function($routeProvider) {
 
     .when('/', {
     templateUrl: 'pages/home.html',
-    controller: 'navigation'
+    controller: 'home'
     })
 
     .when('/home', {
@@ -46,6 +48,11 @@ app.config(function($routeProvider) {
         controller: 'login'
     })
 
+    .when('/syllabus', {
+        templateUrl: 'pages/syllabus.html',
+        controller: 'syllabus'
+    })
+
     .when('/test', {
         templateUrl: 'pages/test.html',
         controller: 'test'
@@ -53,29 +60,12 @@ app.config(function($routeProvider) {
 
 })
 
-app.controller('navigation', function($scope) {
+app.controller('home', function($scope,$location) {
 
-    $scope.about = function() {
-        // main.goto('result')
-        window.open('pdf/About.pdf', '_system');
-    }
-
-    $scope.notification = function() {
-        goto('notification');
-    }
-
-    $scope.result = function() {
-        // main.goto('result')
-        window.open('pdf/Result.pdf', '_system');
-    }
-
-    $scope.syllabus = function() {
-        // main.goto('syllabus')
-        window.open('pdf/Syllabus.pdf', '_system');
-    }
-
-    $scope.test = function() {
-        goto('test');
+    if(localStorage.enrollment && localStorage.enrollment != "null")
+    {
+        $location.path('/home').replace();
+        console.log(localStorage.getItem("enrollment"));
     }
 
     $scope.register = function() {
@@ -85,14 +75,66 @@ app.controller('navigation', function($scope) {
     $scope.login = function() {
         goto('login');
     }
+
+    $scope.about = function() {
+        window.open(base_url+'pdf/About.pdf', '_system');
+    }
+    
+});
+
+app.controller('navigation', function($scope) {
+
+    $scope.about = function() {
+        window.open(base_url+'pdf/About.pdf', '_system');
+    }
+
+    $scope.notification = function() {
+        goto('notification');
+    }
+
+    $scope.result = function() {
+        window.open(base_url+'api/result.php', '_system');
+    }
+
+    $scope.syllabus = function() {
+        goto('syllabus');
+    }
+
+    $scope.test = function() {
+        goto('test');
+    }
+
+    $scope.logout = function() {
+        localStorage.setItem("enrollment","null");
+        goto('');
+    }
+
+    $scope.offers = function(){
+        window.open(base_url+'api/offers.php', '_system');
+    }
+
+})
+
+app.controller('syllabus',function($scope){
+
+    $scope.class11 = function(){   
+        window.open(base_url+'pdf/class11.pdf', '_system'); 
+    };
+
+    $scope.class12 = function(){
+        window.open(base_url+'pdf/class12.pdf', '_system'); 
+    };
+
 })
 
 app.controller('notification', function($scope, $http) {
 
+    componentHandler.upgradeDom();
+
     $scope.notify_data = [];
     $scope.notify_hide = true;
 
-    $http.get('js/notify.json').then(function(response) {
+    $http.get(base_url+'api/notify.php').then(function(response) {
             $scope.notify_data = response.data;
             $scope.notify_hide = false;
         },
@@ -109,20 +151,40 @@ app.controller('register', function($scope,$http,$location) {
     // this forces mdl library to re-draw DOM for form elements
     componentHandler.upgradeDom();
 
-    $('.popup').hide();
-
     $scope.data = {};
     $scope.school_list = [];
-
-    $http.get('js/school_list.json').then(function(response) {
-            $scope.school_list = response.data;
-        });    
-
     $scope.data.session = '2016-17';
     $scope.data.board = 'CB';
     $scope.data.school = '1';
     $scope.data.standard = '11';
     $scope.data.email = '';
+    $scope.data.from_where = 'School';
+
+    $(".popup").show();
+    $(".popup .loading").show();
+
+    $http.get(base_url+'api/school_list.php')
+            .success(function(data, status, headers, config) {
+
+                if(data.status=='1')
+                {
+                    $(".popup .loading").hide();
+                    $(".popup").hide();
+                    $scope.school_list = data.school_list;
+                }
+                else
+                {
+                    $(".popup .loading").hide();
+                    $(".popup .server_error").show();
+                }
+            }).
+            error(function(data, status, headers, config) {
+                $(".popup .loading").hide();
+                $(".popup .error button").hide();
+                $(".popup .error").show();
+               
+            });
+
 
     $scope.login = function(){
         $location.path('/login').replace();
@@ -164,7 +226,7 @@ app.controller('register', function($scope,$http,$location) {
             $(".popup").show();
 
             var parameter = JSON.stringify($scope.data);
-            var url = '/app/api/register.php';
+            var url = base_url+'api/register.php';
             
             $http.post(url,parameter).
             success(function(data, status, headers, config) {
@@ -196,7 +258,10 @@ app.controller('register', function($scope,$http,$location) {
     }
 })
 
+
 app.controller('test', function($scope, $http, $timeout) {
+
+    componentHandler.upgradeDom();
 
     ansArray = [];
     correctAnsArray = [];
@@ -205,17 +270,36 @@ app.controller('test', function($scope, $http, $timeout) {
     $scope.selected = 0;
 
     //variable to keep track of timer
-    var time = 120000;
+    var time = 3600000;
 
     question_num = 0;
     marks = 0;
 
-    $scope.pattern = function(type) {
-        $scope.type = type;
-        $(".test-type").hide();
+    $(".loading-div").show();
+
+    $http.get(base_url+'api/test_list.json').then(function(response) {
+        
+        $scope.papers = response.data;
+        $(".test-list").show();
+        $(".loading-div").hide();
+
+    },
+    function() {
+
+        componentHandler.upgradeDom();
+
+        $(".loading-div").hide();
+        $(".error-div").show();
+    })
+
+    $scope.mock_test = function(i) {
+        
+        var std = (localStorage.enrollment).substring(5,7);
+
+        $(".test-list").hide();
         $(".loading-div").show();
 
-        $http.get('js/test.json').then(function(response) {
+        $http.get(base_url+'api/test/'+std+'/Test-'+i+'.json').then(function(response) {
                 $scope.test_data = response.data;
                 $(".loading-div").hide();
                 $(".test-area").show();
@@ -228,6 +312,8 @@ app.controller('test', function($scope, $http, $timeout) {
                 },1000)
             },
             function() {
+                componentHandler.upgradeDom();
+
                 $(".loading-div").hide();
                 $(".error-div").show();
             })
@@ -323,6 +409,7 @@ app.controller('test', function($scope, $http, $timeout) {
         if (Val == true) {
             $(".test-div").hide();
             $(".result-div").show();
+
             $scope.result();
         } else {
             return;
@@ -350,9 +437,11 @@ app.controller('test', function($scope, $http, $timeout) {
             }
 
             $(".timer h3").text(msToTime(time));
-            $timeout(function(){
-                    $scope.timer();
-                },1000)
+
+            $timeout(function()
+            {
+                if($scope.result_score == undefined) $scope.timer();
+            },1000)
         }
     }
 
@@ -383,14 +472,16 @@ app.controller('login', function($scope,$http,$location){
 
     componentHandler.upgradeDom();
 
-    $scope.data ={enrollment:"",password:""};
+    $scope.data = {enrollment:"",password:""};
 
     $scope.login = function(){
 
         if($scope.data.enrollment!="" && $scope.data.password!="")
         {
             console.log($scope.data.enrollment);
-            url ='/app/api/login.php';
+            
+            url =base_url+'api/login.php';
+            
             var parameter = JSON.stringify($scope.data);
             $http.post(url,parameter).
             success(function(data, status, headers, config) {
@@ -398,6 +489,7 @@ app.controller('login', function($scope,$http,$location){
                 if(data.status=='1')
                 {
                     $location.path('/home').replace();
+                    localStorage.setItem("enrollment",$scope.data.enrollment);
                 }
                 else if(data.status=='2')
                 {

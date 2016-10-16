@@ -9,8 +9,30 @@
     {
         display:block;
         padding-top:30px;
-        color: rgb(138, 138, 138);
+        color: #fff;
+        font-size:16px;
+        text-shadow: 2px 2px #000000;
     }
+
+    .page
+    {
+        background: url(img/cover.jpg);
+        background-size:cover;
+    }
+
+    .brand
+    {
+        color: #fff;
+        background: #650f00;
+        padding: 5px;
+        text-align: center;
+        font-size: 16px;
+        position: fixed;
+        bottom: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+
 </style>
 
 <div class="page">
@@ -18,16 +40,17 @@
         <img src="img/large-logo.png" width="100%">
     </div>
 
-    <h5>Login or Register</h5>
+    <br>
     
     <div class="menu">
-        <div ng-click="login()" class="item button" style="background-color:#62DE9B">Login</div>
+        <div ng-click="login()" class="item button" style="background-color:#591001">Login</div>
         <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Registration</div>
 
-        <center><a class="a-link" href="#">Know about CDGI Science Olympiad</a></center>
-        <br><br><br><br>
+        <center><p class="a-link"  ng-click="about()">Know about CDGI Science Olympiad</p></center>
     </div>
 
-    <div class="cloud"></div>
+    <div class="brand">
+        <p>Chameli Devi Group of Institutions<br>Khandwa Road, Indore, MP</p>
+    </div>
 
 </div>

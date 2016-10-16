@@ -1,17 +1,56 @@
+<style>
+    h5{
+        text-align: center;
+        color: #6b6b6b;
+        padding-bottom: 10px;
+    }
+
+    .a-link
+    {
+        display:block;
+        padding-top:30px;
+        color: #fff;
+        font-size:16px;
+        text-shadow: 2px 2px #000000;
+    }
+
+    .page
+    {
+        background: url(img/cover.jpg);
+        background-size:cover;
+    }
+
+    .brand
+    {
+        color: #fff;
+        background: #650f00;
+        padding: 5px;
+        text-align: center;
+        font-size: 16px;
+        position: fixed;
+        bottom: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+
+</style>
+
 <div class="page">
     <div class="logo" ng-click="about()">
-        <img src="img/home-logo.png" width="100%">
-    </div>
-    
-    <div class="menu">
-        <div ng-click="notification()" class="item button" style="background-color:#62DE9B">Notification</div>
-        <div ng-click="result()" class="item button" style="background-color:#FF1495">Result</div>
-        <div ng-click="syllabus()" class="item button" style="background-color:#F36B42">Syllabus</div>
-        <div ng-click="test()" class="item button" style="background-color:#FFB814">Start Practice Test</div>
-        <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Register Now!</div>
-        <br><br><br><br>
+        <img src="img/large-logo.png" width="100%">
     </div>
 
-    <div class="cloud"></div>
+    <br>
+    
+    <div class="menu">
+        <div ng-click="login()" class="item button" style="background-color:#591001">Login</div>
+        <div ng-click="register()" class="item button scaling" style="background-color:#ea2929">Registration</div>
+
+        <center><p class="a-link"  ng-click="about()">Know about CDGI Science Olympiad</p></center>
+    </div>
+
+    <div class="brand">
+        <p>Chameli Devi Group of Institutions<br>Khandwa Road, Indore, MP</p>
+    </div>
 
 </div>

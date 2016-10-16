@@ -4,17 +4,17 @@
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
             <input class="mdl-textfield__input" type="text" ng-model="data.name">
-            <label class="mdl-textfield__label">Full Name</label>
+            <label class="mdl-textfield__label">Full Name *</label>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
             <input class="mdl-textfield__input" type="text" ng-model="data.father">
-            <label class="mdl-textfield__label">Father's Name</label>
+            <label class="mdl-textfield__label">Father's Name *</label>
         </div>
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
             <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" ng-model="data.mobile">
-            <label class="mdl-textfield__label">Mobile</label>
+            <label class="mdl-textfield__label">Mobile *</label>
             <span class="mdl-textfield__error">Input is not a mobile number!</span>
         </div>
 
@@ -25,7 +25,7 @@
         </div>
 
         <div class="mdl-radio">
-            <div>Standard</div>
+            <div>Standard *</div>
             <input type="radio" name="standard" ng-model="data.standard" value="11"/>
             <label>XI</label>
             &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,14 +34,14 @@
         </div>
 
         <div class="mdl-dropdown">
-            <div>Academic Session</div>
+            <div>Academic Session *</div>
             <select ng-model="data.session">
                 <option value="2016-17">2016-17</option>
             </select>
         </div>
 
         <div class="mdl-dropdown">
-            <div>Board</div>
+            <div>Board *</div>
             <select ng-model="data.board">
                 <option value="CB">CBSE</option>
                 <option value="IC">ICSE</option>
@@ -51,11 +51,11 @@
 
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
             <input class="mdl-textfield__input" type="text" ng-model="data.scholar">
-            <label class="mdl-textfield__label">Scholar No</label>
+            <label class="mdl-textfield__label">Scholar No *</label>
         </div>
 
         <div class="mdl-dropdown">
-            <div>Your School</div>
+            <div>Your School *</div>
             <select ng-model="data.school">
                 <option ng-repeat="school in school_list" value="{{school.id}}">{{school.school}}</option>
             </select>
@@ -64,9 +64,20 @@
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
             <textarea class="mdl-textfield__input" type="text" ng-model="data.address">
             </textarea>
-            <label class="mdl-textfield__label">Address</label>
+            <label class="mdl-textfield__label">Address *</label>
         </div>
-        
+
+        <div class="mdl-dropdown">
+            <div>You came to know about the Olympiad from *</div>
+            <select ng-model="data.from_where">
+                <option value="School">School</option>
+                <option value="Friends">Friends</option>
+                <option value="Coaching">Coaching</option>
+                <option value="Newspaper">Newspaper</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+
         <div>
             <button ng-click="submit()" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
                 Submit

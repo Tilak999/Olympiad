@@ -1,0 +1,24 @@
+<div class="page fadeIn">
+    <div class="header" style="background:#252525">Gifts and Offers</div>
+    <div class="panel">
+        <div class="info-area">
+            <div class="loading-div" ng-show="loading">
+                <div class="spinner">{{x}}
+                    <div class="mdl-spinner mdl-js-spinner is-active"></div>
+                </div>
+                <h6>Fetching Offers</h6>
+            </div>
+            <div class="error-div hide">
+                <div class="icon">
+                    <center><i class="material-icons">error_outline</i></center>
+                </div>
+                <h6>
+                    <center>Can't Connect to Internet.<br>Enable WIFI or Mobile Data.</center>
+                </h6>
+            </div>
+        </div>
+        <div ng-hide="iframe">
+            <iframe src="{{url}}" style="width:auto; height:100%; position:absolute">
+        </div>
+    </div>
+</div>

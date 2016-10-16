@@ -345,7 +345,7 @@ public class PluginManager {
         for (PluginEntry entry : this.entryMap.values()) {
             CordovaPlugin plugin = pluginMap.get(entry.service);
             if (plugin != null) {
-                Boolean result = plugin.shouldAllowRequest(url);
+                Boolean result = true;
                 if (result != null) {
                     return result;
                 }

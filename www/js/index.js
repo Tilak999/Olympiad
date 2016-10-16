@@ -12,7 +12,7 @@ var app = {
         app.loadAssets("style.css", "css");
         setTimeout(function() {
             $("#flash-screen").hide();
-        }, 1500);
+        },1500);
     },
 
     loadAssets: function(filename, filetype) {
